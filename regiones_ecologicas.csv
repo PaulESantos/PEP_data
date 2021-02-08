@@ -56,7 +56,7 @@ Saurauia briquetii,BMHM,Bosques Muy Húmedos Montanos
 Saurauia loeseneriana,BMHM,Bosques Muy Húmedos Montanos
 Saurauia solitaria,BMHM,Bosques Muy Húmedos Montanos
 Bomarea albimontana,PSH,Puna Húmeda y Seca
-Bomarea albimontana,PAR,PAR
+Bomarea albimontana,PAR,Páramo
 Bomarea albimontana,AA,Altoandina
 Bomarea alstroemeroides,BPM,Bosques Pluviales Montanos
 Bomarea alstroemeroides,BMHM,Bosques Muy Húmedos Montanos
@@ -71,7 +71,7 @@ Bomarea coccinea,BPM,Bosques Pluviales Montanos
 Bomarea cordifolia,BMHM,Bosques Muy Húmedos Montanos
 Bomarea cornigera,BMHM,Bosques Muy Húmedos Montanos
 Bomarea cornigera,BMHP,Bosques Muy Húmedos Premontanos
-Bomarea crinita,PAR,PAR
+Bomarea crinita,PAR,Páramo
 Bomarea crinita,BMHM,Bosques Muy Húmedos Montanos
 Bomarea denticulata,BPM,Bosques Pluviales Montanos
 Bomarea denticulata,BMHM,Bosques Muy Húmedos Montanos
@@ -104,7 +104,7 @@ Iresine diffusa,BMHM,Bosques Muy Húmedos Montanos
 Iresine weberbaueri,BS,Bosques Secos
 Pfaffia densipellita,Sin datos,Sin datos
 Caliphruria korsakoffii,BMHM,Bosques Muy Húmedos Montanos
-Clinanthus callacallensis,PAR,PAR
+Clinanthus callacallensis,PAR,Páramo
 Clinanthus campodensis,BS,Bosques Secos
 Clinanthus flammidus,MA,Mesoandina
 Clinanthus glareosus,MA,Mesoandina
@@ -177,8 +177,8 @@ Orthopterygium huaucui,MDE,Matorral Desértico
 Thyrsodium herrerense,BHA,Bosques Húmedos Amazónicos
 Arracacia incisa,MA,Mesoandina
 Arracacia peruviana,MA,Mesoandina
-Arracacia peruviana,PAR,PAR
-Bowlesia argenticaulis,PAR,PAR
+Arracacia peruviana,PAR,Páramo
+Bowlesia argenticaulis,PAR,Páramo
 Domeykoa amplexicaulis,DST,Desierto Semicálido Tropical
 Domeykoa amplexicaulis,MDE,Matorral Desértico
 Domeykoa amplexicaulis,MA,Mesoandina
@@ -202,7 +202,7 @@ Hydrocotyle longipes,BMHP,Bosques Muy Húmedos Premontanos
 Hydrocotyle sagasteguii,MA,Mesoandina
 Hydrocotyle vestita,BMHP,Bosques Muy Húmedos Premontanos
 Niphogeton stricta,PSH,Puna Húmeda y Seca
-Niphogeton stricta,PAR,PAR
+Niphogeton stricta,PAR,Páramo
 Paraselinum weberbaueri,MA,Mesoandina
 Allamanda weberbaueri,BS,Bosques Secos
 Allomarkgrafia ovalis,BHA,Bosques Húmedos Amazónicos
@@ -409,16 +409,16 @@ Aequatorium stellatopilosum,BMHM,Bosques Muy Húmedos Montanos
 Aequatorium tovarii,BPM,Bosques Pluviales Montanos
 Aequatorium tuestae,BPM,Bosques Pluviales Montanos
 Ageratina bishopii,BMHM,Bosques Muy Húmedos Montanos
-Ageratina boekei,PAR,PAR
+Ageratina boekei,PAR,Páramo
 Ageratina boekei,BMHM,Bosques Muy Húmedos Montanos
-Ageratina chachapoyasensis,PAR,PAR
+Ageratina chachapoyasensis,PAR,Páramo
 Ageratina chachapoyasensis,BPM,Bosques Pluviales Montanos
 Ageratina gracilenta,BMHM,Bosques Muy Húmedos Montanos
 Ageratina infiernillensis,MA,Mesoandina
 Ageratina lobulifera,MA,Mesoandina
 Ageratina lopez-mirandae,MA,Mesoandina
 Ageratina pampalcensis,BMHM,Bosques Muy Húmedos Montanos
-Ageratina piurae,PAR,PAR
+Ageratina piurae,PAR,Páramo
 Ageratina proba,MA,Mesoandina
 Ageratina rhytidodes,MA,Mesoandina
 Ageratina simulans,MA,Mesoandina
@@ -427,15 +427,15 @@ Ageratina tarmensis,MA,Mesoandina
 Ageratina vallincola,DST,Desierto Semicálido Tropical
 Ageratina vallincola,MA,Mesoandina
 Ageratina vallincola,PSH,Puna Húmeda y Seca
-Ageratina vallincola,PAR,PAR
-Ageratina wurdackii,PAR,PAR
+Ageratina vallincola,PAR,Páramo
+Ageratina wurdackii,PAR,Páramo
 Ageratina wurdackii,BMHM,Bosques Muy Húmedos Montanos
 Alloispermum weberbaueri,MA,Mesoandina
 Amboroa wurdackii,BMHP,Bosques Muy Húmedos Premontanos
 Amboroa wurdackii,BHA,Bosques Húmedos Amazónicos
 Ambrosia dentata,DST,Desierto Semicálido Tropical
 Ambrosia pannosa,MA,Mesoandina
-Aphanactis hutchisonii,PAR,PAR
+Aphanactis hutchisonii,PAR,Páramo
 Aphanactis hutchisonii,BMHM,Bosques Muy Húmedos Montanos
 Aristeguietia anisodonta,MA,Mesoandina
 Aristeguietia ballii,MA,Mesoandina
@@ -446,8 +446,8 @@ Aristeguietia tahonensis,MA,Mesoandina
 Arnaldoa macbrideana,MDE,Matorral Desértico
 Arnaldoa weberbaueri,MDE,Matorral Desértico
 Arnaldoa weberbaueri,BS,Bosques Secos
-Ascidiogyne sanchezvegae,PAR,PAR
-Ascidiogyne wurdackii,PAR,PAR
+Ascidiogyne sanchezvegae,PAR,Páramo
+Ascidiogyne wurdackii,PAR,Páramo
 Asplundianthus sagasteguii,MDE,Matorral Desértico
 Asplundianthus sagasteguii,MA,Mesoandina
 Asplundianthus scabrifolius,BPM,Bosques Pluviales Montanos
@@ -476,8 +476,8 @@ Baccharis johnwurdackiana,PSH,Puna Húmeda y Seca
 Baccharis kingii,DST,Desierto Semicálido Tropical
 Baccharis kingii,MDE,Matorral Desértico
 Baccharis kingii,MA,Mesoandina
-Baccharis ledifolia,PAR,PAR
-Baccharis libertadensis,PAR,PAR
+Baccharis ledifolia,PAR,Páramo
+Baccharis libertadensis,PAR,Páramo
 Baccharis oxyphylla,BS,Bosques Secos
 Baccharis scabra,MA,Mesoandina
 Baccharis tarmensis,MA,Mesoandina
@@ -506,29 +506,29 @@ Chaetanthera chiquianensis,PSH,Puna Húmeda y Seca
 Chaetanthera cochlearifolia,AA,Altoandina
 Chaetanthera peruviana,MA,Mesoandina
 Chaetanthera peruviana,PSH,Puna Húmeda y Seca
-Chaptalia callacallensis,PAR,PAR
+Chaptalia callacallensis,PAR,Páramo
 Chaptalia callacallensis,BMHM,Bosques Muy Húmedos Montanos
 Chaptalia isernina,Sin datos,Sin datos
 Chaptalia malcabalensis,BMHM,Bosques Muy Húmedos Montanos
-Chersodoma deltoidea,PAR,PAR
+Chersodoma deltoidea,PAR,Páramo
 Chersodoma juanisernii,DST,Desierto Semicálido Tropical
 Chersodoma juanisernii,MA,Mesoandina
 Chersodoma ovopedata,PSH,Puna Húmeda y Seca
-Chersodoma ovopedata,PAR,PAR
+Chersodoma ovopedata,PAR,Páramo
 Chiliotrichiopsis peruviana,PSH,Puna Húmeda y Seca
 Chromolaena anachoretica,MA,Mesoandina
 Chromolaena eripsima,MA,Mesoandina
 Chromolaena jelskii,BS,Bosques Secos
-Chrysactinium breviscapum,PAR,PAR
+Chrysactinium breviscapum,PAR,Páramo
 Chrysactinium wurdackii,BMHM,Bosques Muy Húmedos Montanos
 Chrysanthellum indicum,MA,Mesoandina
 Chucoa ilicifolia,MA,Mesoandina
 Chuquiraga johnstonii,MA,Mesoandina
 Chuquiraga johnstonii,PSH,Puna Húmeda y Seca
-Chuquiraga oblongifolia,PAR,PAR
+Chuquiraga oblongifolia,PAR,Páramo
 Chuquiraga raimondiana,PSH,Puna Húmeda y Seca
 Chuquiraga weberbaueri,PSH,Puna Húmeda y Seca
-Chuquiraga weberbaueri,PAR,PAR
+Chuquiraga weberbaueri,PAR,Páramo
 Coreopsis breviligulata,MA,Mesoandina
 Coreopsis cajamarcana,MA,Mesoandina
 Coreopsis canescentifolia,MA,Mesoandina
@@ -558,14 +558,14 @@ Coreopsis peruviana,MA,Mesoandina
 Coreopsis pervelutina,MA,Mesoandina
 Coreopsis piurana,MA,Mesoandina
 Coreopsis poloe,MA,Mesoandina
-Coreopsis polyactis,PAR,PAR
+Coreopsis polyactis,PAR,Páramo
 Coreopsis senaria,MA,Mesoandina
 Coreopsis sherffii,MA,Mesoandina
 Coreopsis sherffii,PSH,Puna Húmeda y Seca
 Coreopsis woytkowskii,MA,Mesoandina
 Critoniopsis ayabacensis,MA,Mesoandina
 Critoniopsis gynoxiifolia,BPM,Bosques Pluviales Montanos
-Critoniopsis jalcana,PAR,PAR
+Critoniopsis jalcana,PAR,Páramo
 Critoniopsis jelskii,BMHM,Bosques Muy Húmedos Montanos
 Critoniopsis macrofoliata,BMHM,Bosques Muy Húmedos Montanos
 Critoniopsis oblongifolia,MA,Mesoandina
@@ -618,13 +618,13 @@ Diplostephium abietinum,BMHM,Bosques Muy Húmedos Montanos
 Diplostephium affine,MA,Mesoandina
 Diplostephium azureum,MA,Mesoandina
 Diplostephium azureum,PSH,Puna Húmeda y Seca
-Diplostephium azureum,PAR,PAR
-Diplostephium cajamarquillense,PAR,PAR
+Diplostephium azureum,PAR,Páramo
+Diplostephium cajamarquillense,PAR,Páramo
 Diplostephium callaense,MA,Mesoandina
-Diplostephium callaense,PAR,PAR
+Diplostephium callaense,PAR,Páramo
 Diplostephium callilepis,PSH,Puna Húmeda y Seca
 Diplostephium carabayense,Sin datos,Sin datos
-Diplostephium foliosissimum,PAR,PAR
+Diplostephium foliosissimum,PAR,Páramo
 Diplostephium foliosissimum,BPM,Bosques Pluviales Montanos
 Diplostephium gnidioides,MA,Mesoandina
 Diplostephium goodspeedii,BPM,Bosques Pluviales Montanos
@@ -638,12 +638,12 @@ Diplostephium pearcei,PSH,Puna Húmeda y Seca
 Diplostephium pulchrum,PSH,Puna Húmeda y Seca
 Diplostephium sagasteguii,MA,Mesoandina
 Diplostephium sagasteguii,PSH,Puna Húmeda y Seca
-Diplostephium sagasteguii,PAR,PAR
+Diplostephium sagasteguii,PAR,Páramo
 Diplostephium sandiense,BPM,Bosques Pluviales Montanos
 Diplostephium serratifolium,MA,Mesoandina
 Diplostephium vermiculatum,Sin datos,Sin datos
 Diplostephium weberbaueri,MA,Mesoandina
-Diplostephium wurdackii,PAR,PAR
+Diplostephium wurdackii,PAR,Páramo
 Dyssodia friasensis,MDE,Matorral Desértico
 Dyssodia jelskii,MA,Mesoandina
 Dyssodia lopez-mirandae,MA,Mesoandina
@@ -687,7 +687,7 @@ Flourensia peruviana,MA,Mesoandina
 Flourensia polycephala,MA,Mesoandina
 Galinsoga caligensis,Sin datos,Sin datos
 Gamochaeta cabrerae,PSH,Puna Húmeda y Seca
-Gamochaeta cabrerae,PAR,PAR
+Gamochaeta cabrerae,PAR,Páramo
 Gochnatia patazina,MA,Mesoandina
 Gochnatia vargasii,MA,Mesoandina
 Gochnatia vernonioides,MA,Mesoandina
@@ -709,28 +709,28 @@ Gynoxys compressissima,MA,Mesoandina
 Gynoxys compressissima,PSH,Puna Húmeda y Seca
 Gynoxys congestiflora,BMHM,Bosques Muy Húmedos Montanos
 Gynoxys costihirsuta,BPM,Bosques Pluviales Montanos
-Gynoxys cuatrecasasii,PAR,PAR
+Gynoxys cuatrecasasii,PAR,Páramo
 Gynoxys cuatrecasasii,BPM,Bosques Pluviales Montanos
 Gynoxys cusilluyocana,PSH,Puna Húmeda y Seca
 Gynoxys cutervensis,BMHM,Bosques Muy Húmedos Montanos
 Gynoxys cuzcoensis,PSH,Puna Húmeda y Seca
 Gynoxys cuzcoensis,BPM,Bosques Pluviales Montanos
-Gynoxys dilloniana,PAR,PAR
+Gynoxys dilloniana,PAR,Páramo
 Gynoxys fallax,MA,Mesoandina
-Gynoxys ferreyrae,PAR,PAR
+Gynoxys ferreyrae,PAR,Páramo
 Gynoxys henrici,BMHM,Bosques Muy Húmedos Montanos
 Gynoxys huanucona,Sin datos,Sin datos
 Gynoxys huasahuasis,PSH,Puna Húmeda y Seca
-Gynoxys hutchisonii,PAR,PAR
+Gynoxys hutchisonii,PAR,Páramo
 Gynoxys hutchisonii,BPM,Bosques Pluviales Montanos
-Gynoxys hypoleucophylla,PAR,PAR
+Gynoxys hypoleucophylla,PAR,Páramo
 Gynoxys infralanata,PSH,Puna Húmeda y Seca
 Gynoxys infralanata,BPM,Bosques Pluviales Montanos
 Gynoxys jelskii,BMHM,Bosques Muy Húmedos Montanos
 Gynoxys longistyla,MA,Mesoandina
 Gynoxys longistyla,PSH,Puna Húmeda y Seca
 Gynoxys macrophylla,BMHM,Bosques Muy Húmedos Montanos
-Gynoxys malcabalensis,PAR,PAR
+Gynoxys malcabalensis,PAR,Páramo
 Gynoxys marcapatana,MA,Mesoandina
 Gynoxys metcalfii,PSH,Puna Húmeda y Seca
 Gynoxys monzonensis,BMHM,Bosques Muy Húmedos Montanos
@@ -743,11 +743,11 @@ Gynoxys pillahuatensis,BMHM,Bosques Muy Húmedos Montanos
 Gynoxys poggeana,MA,Mesoandina
 Gynoxys poggeana,BPM,Bosques Pluviales Montanos
 Gynoxys seleriana,MA,Mesoandina
-Gynoxys soukupii,PAR,PAR
+Gynoxys soukupii,PAR,Páramo
 Gynoxys subamplectens,PSH,Puna Húmeda y Seca
 Gynoxys subamplectens,BPM,Bosques Pluviales Montanos
 Gynoxys tetroici,BS,Bosques Secos
-Gynoxys tomentosissima,PAR,PAR
+Gynoxys tomentosissima,PAR,Páramo
 Gynoxys vacana,PSH,Puna Húmeda y Seca
 Gynoxys visoensis,MA,Mesoandina
 Gynoxys weberbaueri,Sin datos,Sin datos
@@ -760,8 +760,8 @@ Hebeclinium beneolens,MA,Mesoandina
 Hebeclinium beneolens,BMHM,Bosques Muy Húmedos Montanos
 Hebeclinium vestitum,Sin datos,Sin datos
 Heliopsis decumbens,MA,Mesoandina
-Heliopsis decumbens,PAR,PAR
-Helogyne calocephala,PAR,PAR
+Heliopsis decumbens,PAR,Páramo
+Helogyne calocephala,PAR,Páramo
 Helogyne ferreyrae,MA,Mesoandina
 Helogyne hutchisonii,DST,Desierto Semicálido Tropical
 Heterosperma ferreyrii,DST,Desierto Semicálido Tropical
@@ -772,13 +772,13 @@ Hieracium frigidulans,MA,Mesoandina
 Hieracium infravillosulum,BMHM,Bosques Muy Húmedos Montanos
 Hieracium mathewsii,Sin datos,Sin datos
 Hieracium peruanum var. ayavacanum,MA,Mesoandina
-Hieracium peruanum var. ayavacanum,PAR,PAR
+Hieracium peruanum var. ayavacanum,PAR,Páramo
 Hieracium tallenganum,AA,Altoandina
 Hieracium weberbauerianum,Sin datos,Sin datos
 Holoschkuhria tetramera,BMHM,Bosques Muy Húmedos Montanos
 Hughesia reginae,BMHM,Bosques Muy Húmedos Montanos
 Hypochaeris mucida,PSH,Puna Húmeda y Seca
-Jalcophila peruviana,PAR,PAR
+Jalcophila peruviana,PAR,Páramo
 Jungia amplistipula,MA,Mesoandina
 Jungia gracilis,BMHM,Bosques Muy Húmedos Montanos
 Jungia schuerae,MA,Mesoandina
@@ -807,11 +807,11 @@ Llerasia hutchisonii,MA,Mesoandina
 Llerasia pascoensis,BMHM,Bosques Muy Húmedos Montanos
 Llerasia sanmartinensis,BMHM,Bosques Muy Húmedos Montanos
 Loricaria lycopodinea,PSH,Puna Húmeda y Seca
-Loricaria lycopodinea,PAR,PAR
-Loricaria thuyoides var. stuebelii,PAR,PAR
+Loricaria lycopodinea,PAR,Páramo
+Loricaria thuyoides var. stuebelii,PAR,Páramo
 Luciliocline plicatifolia,MA,Mesoandina
-Luciliocline plicatifolia,PAR,PAR
-Luciliocline spathulifolia,PAR,PAR
+Luciliocline plicatifolia,PAR,Páramo
+Luciliocline spathulifolia,PAR,Páramo
 Lycoseris peruviana,BMHP,Bosques Muy Húmedos Premontanos
 Mikania areolata,BPM,Bosques Pluviales Montanos
 Mikania arthroclada,BMHM,Bosques Muy Húmedos Montanos
@@ -863,7 +863,7 @@ Munnozia herrerae,BPM,Bosques Pluviales Montanos
 Munnozia herrerae,BMHM,Bosques Muy Húmedos Montanos
 Munnozia lanceolata,MA,Mesoandina
 Munnozia luyensis,BMHM,Bosques Muy Húmedos Montanos
-Munnozia olearioides,PAR,PAR
+Munnozia olearioides,PAR,Páramo
 Munnozia oxyphylla,Sin datos,Sin datos
 Munnozia peruensis,BPM,Bosques Pluviales Montanos
 Munnozia sagasteguii,MA,Mesoandina
@@ -924,9 +924,9 @@ Ophryosporus ovatus,Sin datos,Sin datos
 Ophryosporus pubescens,DST,Desierto Semicálido Tropical
 Ophryosporus pubescens,MDE,Matorral Desértico
 Ophryosporus sagasteguii,MA,Mesoandina
-Oritrophium aciculifolium,PAR,PAR
+Oritrophium aciculifolium,PAR,Páramo
 Oritrophium callacallense,Sin datos,Sin datos
-Oritrophium hirtopilosum,PAR,PAR
+Oritrophium hirtopilosum,PAR,Páramo
 Oyedaea oxylepis,BMHM,Bosques Muy Húmedos Montanos
 Oyedaea wedelioides,BHA,Bosques Húmedos Amazónicos
 Pappobolus acuminatus,BMHM,Bosques Muy Húmedos Montanos
@@ -939,21 +939,21 @@ Pappobolus cajamarcensis,MA,Mesoandina
 Pappobolus cinerascens,MA,Mesoandina
 Pappobolus davidii,PSH,Puna Húmeda y Seca
 Pappobolus decumbens,MA,Mesoandina
-Pappobolus decumbens,PAR,PAR
+Pappobolus decumbens,PAR,Páramo
 Pappobolus discolor,MA,Mesoandina
-Pappobolus discolor,PAR,PAR
+Pappobolus discolor,PAR,Páramo
 Pappobolus hutchisonii,BS,Bosques Secos
 Pappobolus jelskii,MA,Mesoandina
-Pappobolus jelskii,PAR,PAR
+Pappobolus jelskii,PAR,Páramo
 Pappobolus lanatus var. lanatus,MA,Mesoandina
 Pappobolus lanatus var. sanctae,MA,Mesoandina
-Pappobolus lodicatus,PAR,PAR
+Pappobolus lodicatus,PAR,Páramo
 Pappobolus mathewsii var. mathewsii,MA,Mesoandina
 Pappobolus mathewsii var. occidentalis,MA,Mesoandina
 Pappobolus mathewsii var. viridifolius,MA,Mesoandina
 Pappobolus microphyllus var. microphyllus,MA,Mesoandina
-Pappobolus microphyllus var. microphyllus,PAR,PAR
-Pappobolus microphyllus var. dillonii,PAR,PAR
+Pappobolus microphyllus var. microphyllus,PAR,Páramo
+Pappobolus microphyllus var. dillonii,PAR,Páramo
 Pappobolus microphyllus var. libertadianus,MA,Mesoandina
 Pappobolus microphyllus var. soukupii,MA,Mesoandina
 Pappobolus mollicomus,MA,Mesoandina
@@ -961,13 +961,13 @@ Pappobolus sagasteguii,MA,Mesoandina
 Pappobolus sagasteguii,BS,Bosques Secos
 Pappobolus sanchezii,MA,Mesoandina
 Pappobolus senex,Sin datos,Sin datos
-Pappobolus smithii,PAR,PAR
+Pappobolus smithii,PAR,Páramo
 Pappobolus storkhortonianus,MA,Mesoandina
-Pappobolus stuebelii,PAR,PAR
-Pappobolus subniveus,PAR,PAR
+Pappobolus stuebelii,PAR,Páramo
+Pappobolus subniveus,PAR,Páramo
 Pappobolus szyszylowiczii,Sin datos,Sin datos
 Pappobolus verbesinoides,MA,Mesoandina
-Pappobolus verbesinoides,PAR,PAR
+Pappobolus verbesinoides,PAR,Páramo
 Pappobolus viridior,MA,Mesoandina
 Pappobolus viridior,PSH,Puna Húmeda y Seca
 Pappobolus woodsonianus,BMHM,Bosques Muy Húmedos Montanos
@@ -977,8 +977,8 @@ Paracalia jungioides,MA,Mesoandina
 Paracalia lopezii,BS,Bosques Secos
 Paragynoxys lopezii,BS,Bosques Secos
 Paranephelius bullatus,Sin datos,Sin datos
-Paranephelius ferreyrii,PAR,PAR
-Paranephelius wurdackii,PAR,PAR
+Paranephelius ferreyrii,PAR,Páramo
+Paranephelius wurdackii,PAR,Páramo
 Pectis peruviana,BS,Bosques Secos
 Pentacalia aclydiphylla,BPM,Bosques Pluviales Montanos
 Pentacalia asplundii,BPM,Bosques Pluviales Montanos
@@ -991,7 +991,7 @@ Pentacalia diplostephioides,AA,Altoandina
 Pentacalia divisoria,BMHM,Bosques Muy Húmedos Montanos
 Pentacalia huallagana,BPM,Bosques Pluviales Montanos
 Pentacalia huamaliensis,BPM,Bosques Pluviales Montanos
-Pentacalia jalcana,PAR,PAR
+Pentacalia jalcana,PAR,Páramo
 Pentacalia lucidissima,BMHP,Bosques Muy Húmedos Premontanos
 Pentacalia maynasensis,BHA,Bosques Húmedos Amazónicos
 Pentacalia megaphlebia,BMHM,Bosques Muy Húmedos Montanos
@@ -999,7 +999,7 @@ Pentacalia miniaurita,BPM,Bosques Pluviales Montanos
 Pentacalia mucronatifolia,MA,Mesoandina
 Pentacalia nunezii,BMHM,Bosques Muy Húmedos Montanos
 Pentacalia petiolincrassata,Sin datos,Sin datos
-Pentacalia pleniaurita,PAR,PAR
+Pentacalia pleniaurita,PAR,Páramo
 Pentacalia pomacochana,BMHM,Bosques Muy Húmedos Montanos
 Pentacalia poyasensis,Sin datos,Sin datos
 Pentacalia rufohirsuta,BPM,Bosques Pluviales Montanos
@@ -1035,7 +1035,7 @@ Pseudogynoxys poeppigii,BS,Bosques Secos
 Pseudonoseris discolor,MA,Mesoandina
 Pseudonoseris striata,MDE,Matorral Desértico
 Pseudonoseris szyszylowiczii,MA,Mesoandina
-Schizotrichia eupatorioides,PAR,PAR
+Schizotrichia eupatorioides,PAR,Páramo
 Schizotrichia eupatorioides,BMHM,Bosques Muy Húmedos Montanos
 Senecio abadianus,DST,Desierto Semicálido Tropical
 Senecio acarinus,DST,Desierto Semicálido Tropical
@@ -1047,11 +1047,11 @@ Senecio ancashinus,PSH,Puna Húmeda y Seca
 Senecio arachnolomus,PSH,Puna Húmeda y Seca
 Senecio arachnolomus,AA,Altoandina
 Senecio axillifoliatus,MA,Mesoandina
-Senecio cajamarquillensis,PAR,PAR
+Senecio cajamarquillensis,PAR,Páramo
 Senecio calachaquensis,PSH,Puna Húmeda y Seca
 Senecio calcensis,MA,Mesoandina
 Senecio calcicola,Sin datos,Sin datos
-Senecio callacallensis,PAR,PAR
+Senecio callacallensis,PAR,Páramo
 Senecio callacallensis,BPM,Bosques Pluviales Montanos
 Senecio callacallensis,BMHM,Bosques Muy Húmedos Montanos
 Senecio campanellifer,AA,Altoandina
@@ -1064,23 +1064,23 @@ Senecio chachaniensis,PSH,Puna Húmeda y Seca
 Senecio chavanilloensis,MA,Mesoandina
 Senecio chiquianensis var. chiquianensis,MA,Mesoandina
 Senecio chiquianensis var. chiquianensis,PSH,Puna Húmeda y Seca
-Senecio chiquianensis var. chiquianensis,PAR,PAR
+Senecio chiquianensis var. chiquianensis,PAR,Páramo
 Senecio chiquianensis var. dentatus,MA,Mesoandina
 Senecio chiribogae,MA,Mesoandina
 Senecio collinus,PSH,Puna Húmeda y Seca
-Senecio collinus,PAR,PAR
+Senecio collinus,PAR,Páramo
 Senecio collinus,AA,Altoandina
 Senecio comosus var. blancus,MA,Mesoandina
 Senecio comosus var. cauliglabrus,Sin datos,Sin datos
 Senecio comosus var. debilis,MA,Mesoandina
-Senecio coymolachensis,PAR,PAR
+Senecio coymolachensis,PAR,Páramo
 Senecio crassilodix,AA,Altoandina
 Senecio cuatrecasasii,PSH,Puna Húmeda y Seca
 Senecio danai,MA,Mesoandina
 Senecio danai,PSH,Puna Húmeda y Seca
-Senecio ellenbergii,PAR,PAR
+Senecio ellenbergii,PAR,Páramo
 Senecio emmae,PSH,Puna Húmeda y Seca
-Senecio emmae,PAR,PAR
+Senecio emmae,PAR,Páramo
 Senecio featherstonii,MA,Mesoandina
 Senecio featherstonii,PSH,Puna Húmeda y Seca
 Senecio featherstonii,AA,Altoandina
@@ -1088,26 +1088,26 @@ Senecio ferreyrae,MA,Mesoandina
 Senecio ferreyrae,PSH,Puna Húmeda y Seca
 Senecio flaccidifolius,MA,Mesoandina
 Senecio flaccidifolius,PSH,Puna Húmeda y Seca
-Senecio flaccidifolius,PAR,PAR
+Senecio flaccidifolius,PAR,Páramo
 Senecio gamolepis,PSH,Puna Húmeda y Seca
 Senecio gamolepis,AA,Altoandina
 Senecio geniculipes,PSH,Puna Húmeda y Seca
 Senecio genisianus,AA,Altoandina
 Senecio gracilipes,MA,Mesoandina
 Senecio hebetatus,PSH,Puna Húmeda y Seca
-Senecio huaguilicus,PAR,PAR
+Senecio huaguilicus,PAR,Páramo
 Dendrophorbium huasense,MA,Mesoandina
 Senecio hypsiandinus,PSH,Puna Húmeda y Seca
 Senecio hypsiandinus,AA,Altoandina
 Senecio icaensis,DST,Desierto Semicálido Tropical
 Senecio infernalis,MA,Mesoandina
 Senecio infiernillensis,MA,Mesoandina
-Senecio ishcaivilcanus,PAR,PAR
+Senecio ishcaivilcanus,PAR,Páramo
 Senecio jungioides,MA,Mesoandina
 Senecio killipii,PSH,Puna Húmeda y Seca
 Senecio kingbishopii,MA,Mesoandina
 Senecio kingbishopii,PSH,Puna Húmeda y Seca
-Senecio kingbishopii,PAR,PAR
+Senecio kingbishopii,PAR,Páramo
 Senecio lancidentatus,MA,Mesoandina
 Senecio larahuinensis,PSH,Puna Húmeda y Seca
 Senecio leucophorbius,AA,Altoandina
@@ -1115,15 +1115,15 @@ Senecio lomincola,DST,Desierto Semicálido Tropical
 Senecio lopez-guillenii,MA,Mesoandina
 Senecio lopez-guillenii,PSH,Puna Húmeda y Seca
 Senecio lopez-guillenii,AA,Altoandina
-Senecio lopez-mirandae,PAR,PAR
+Senecio lopez-mirandae,PAR,Páramo
 Senecio macrorrhizus,PSH,Puna Húmeda y Seca
 Senecio macrorrhizus,AA,Altoandina
 Senecio mathewsii,PSH,Puna Húmeda y Seca
 Senecio melanocalyx,MA,Mesoandina
 Senecio melanocalyx,PSH,Puna Húmeda y Seca
 Senecio minesinus,PSH,Puna Húmeda y Seca
-Senecio minesinus,PAR,PAR
-Senecio miniauritus,PAR,PAR
+Senecio minesinus,PAR,Páramo
+Senecio miniauritus,PAR,Páramo
 Senecio mitonis,MA,Mesoandina
 Senecio neoviscosus,MA,Mesoandina
 Senecio ochoanus,PSH,Puna Húmeda y Seca
@@ -1138,11 +1138,11 @@ Senecio pascoensis,AA,Altoandina
 Senecio peruensis,PSH,Puna Húmeda y Seca
 Senecio peruensis,BPM,Bosques Pluviales Montanos
 Senecio piurensis,MA,Mesoandina
-Senecio piurensis,PAR,PAR
-Senecio pleniauritus,PAR,PAR
+Senecio piurensis,PAR,Páramo
+Senecio pleniauritus,PAR,Páramo
 Senecio punasessilis,MA,Mesoandina
 Senecio pyrenophilus,MA,Mesoandina
-Senecio radiatus,PAR,PAR
+Senecio radiatus,PAR,Páramo
 Senecio rauhii,AA,Altoandina
 Senecio rauranus,AA,Altoandina
 Senecio recurvatus,Sin datos,Sin datos
@@ -1157,7 +1157,7 @@ Senecio subcandidus,MA,Mesoandina
 Senecio sulinicus,Sin datos,Sin datos
 Senecio szyszylowiczii,MA,Mesoandina
 Senecio tenuisagittatus,Sin datos,Sin datos
-Senecio timidus,PAR,PAR
+Senecio timidus,PAR,Páramo
 Senecio timidus,AA,Altoandina
 Senecio tingoensis,MA,Mesoandina
 Senecio torrehuasensis,PSH,Puna Húmeda y Seca
@@ -1172,7 +1172,7 @@ Senecio yauyensis,MA,Mesoandina
 Senecio yauyensis,PSH,Puna Húmeda y Seca
 Senecio yunguyensis,MA,Mesoandina
 Smallanthus jelskii,MA,Mesoandina
-Smallanthus jelskii,PAR,PAR
+Smallanthus jelskii,PAR,Páramo
 Stevia cajabambensis,MA,Mesoandina
 Stevia cathartica,Sin datos,Sin datos
 Stevia cuzcoensis,MA,Mesoandina
@@ -1192,7 +1192,7 @@ Stevia punensis,MA,Mesoandina
 Stevia punensis,PSH,Puna Húmeda y Seca
 Stevia weberbaueri,MA,Mesoandina
 Stevia weberbaueri,PSH,Puna Húmeda y Seca
-Stevia weberbaueri,PAR,PAR
+Stevia weberbaueri,PAR,Páramo
 Syncretocarpus ancashino,MA,Mesoandina
 Syncretocarpus sericeus,MDE,Matorral Desértico
 Syncretocarpus similis,MDE,Matorral Desértico
@@ -1212,7 +1212,7 @@ Verbesina ampliatifolia,BMHM,Bosques Muy Húmedos Montanos
 Verbesina ampliatifolia,BMHP,Bosques Muy Húmedos Premontanos
 Verbesina ancashensis,MA,Mesoandina
 Verbesina andina,MA,Mesoandina
-Verbesina andina,PAR,PAR
+Verbesina andina,PAR,Páramo
 Verbesina auriculigera,MA,Mesoandina
 Verbesina aypatensis,MA,Mesoandina
 Verbesina brevilingua,MA,Mesoandina
@@ -1225,7 +1225,7 @@ Verbesina chachapoyensis,MA,Mesoandina
 Verbesina citrina,MDE,Matorral Desértico
 Verbesina contumacensis,MA,Mesoandina
 Verbesina crassicephala,MA,Mesoandina
-Verbesina crassicephala,PAR,PAR
+Verbesina crassicephala,PAR,Páramo
 Verbesina dilloniana,MA,Mesoandina
 Verbesina fuscicaulis,MA,Mesoandina
 Verbesina fastigiata,BMHM,Bosques Muy Húmedos Montanos
@@ -1307,13 +1307,13 @@ Begonia octopetala,Sin datos,Sin datos
 Begonia peltigera,Sin datos,Sin datos
 Begonia pilosella,BMHM,Bosques Muy Húmedos Montanos
 Begonia polypetala,MA,Mesoandina
-Begonia polypetala,PAR,PAR
+Begonia polypetala,PAR,Páramo
 Begonia prionophylla,BMHM,Bosques Muy Húmedos Montanos
 Begonia pseudoglauca,Sin datos,Sin datos
 Begonia hirta,Sin datos,Sin datos
 Begonia rubiginosipes,BMHM,Bosques Muy Húmedos Montanos
 Begonia rubrotincta,BMHM,Bosques Muy Húmedos Montanos
-Begonia soror,PAR,PAR
+Begonia soror,PAR,Páramo
 Begonia soror,BMHM,Bosques Muy Húmedos Montanos
 Begonia stenotepala,Sin datos,Sin datos
 Begonia subciliata var. persicina,Sin datos,Sin datos
@@ -1331,7 +1331,7 @@ Berberis armata,Sin datos,Sin datos
 Berberis barbeyana,BPM,Bosques Pluviales Montanos
 Berberis beauverdiana,MA,Mesoandina
 Berberis buceronis,MA,Mesoandina
-Berberis buceronis,PAR,PAR
+Berberis buceronis,PAR,Páramo
 Berberis citernei,Sin datos,Sin datos
 Berberis cliffortioides,MA,Mesoandina
 Berberis cliffortioides,PSH,Puna Húmeda y Seca
@@ -1354,7 +1354,7 @@ Eccremocarpus huainaccapac,PSH,Puna Húmeda y Seca
 Tecoma guarume,DST,Desierto Semicálido Tropical
 Tecoma guarume,MDE,Matorral Desértico
 Burmannia stuebelii,MA,Mesoandina
-Burmannia stuebelii,PAR,PAR
+Burmannia stuebelii,PAR,Páramo
 Burmannia stuebelii,BMHM,Bosques Muy Húmedos Montanos
 Ceiba mythica,BS,Bosques Secos
 Eriotheca peruviana,BS,Bosques Secos
@@ -1374,7 +1374,7 @@ Cordia varronifolia,BS,Bosques Secos
 Cryptantha limensis,DST,Desierto Semicálido Tropical
 Cryptantha varians,MDE,Matorral Desértico
 Hackelia andicola,MA,Mesoandina
-Hackelia andicola,PAR,PAR
+Hackelia andicola,PAR,Páramo
 Hackelia parviflora,MA,Mesoandina
 Heliotropium adenogynum,DST,Desierto Semicálido Tropical
 Heliotropium adenogynum,MDE,Matorral Desértico
@@ -1424,9 +1424,9 @@ Draba matthioloides,AA,Altoandina
 Draba matthioloides,PSH,Puna Húmeda y Seca
 Draba ochropetala,PSH,Puna Húmeda y Seca
 Draba ochropetala,AA,Altoandina
-Draba sagasteguii,PAR,PAR
+Draba sagasteguii,PAR,Páramo
 Draba ochropetala,PSH,Puna Húmeda y Seca
-Draba wurdackii,PAR,PAR
+Draba wurdackii,PAR,Páramo
 Englerocharis pauciflora,PSH,Puna Húmeda y Seca
 Eremodraba schulzii,MA,Mesoandina
 Eudema incurva,PSH,Puna Húmeda y Seca
@@ -1446,11 +1446,11 @@ Mostacillastrum morrisonii,DST,Desierto Semicálido Tropical
 Mostacillastrum pectinifolium,MA,Mesoandina
 Mostacillastrum weberbaueri,MDE,Matorral Desértico
 Weberbauera bracteata,AA,Altoandina
-Weberbauera dillonii,PAR,PAR
+Weberbauera dillonii,PAR,Páramo
 Weberbauera perforata,AA,Altoandina
 Weberbauera scabrifolia,PSH,Puna Húmeda y Seca
 Weberbauera smithii,AA,Altoandina
-Weberbauera violacea,PAR,PAR
+Weberbauera violacea,PAR,Páramo
 Aechmea arenaria,BHA,Bosques Húmedos Amazónicos
 Aechmea brachystachys,BHA,Bosques Húmedos Amazónicos
 Aechmea confusa,BHA,Bosques Húmedos Amazónicos
@@ -1546,7 +1546,7 @@ Pitcairnia wolfei,BMHM,Bosques Muy Húmedos Montanos
 Pitcairnia yaupi-bajaensis,BMHM,Bosques Muy Húmedos Montanos
 Puya adscendens,BMHM,Bosques Muy Húmedos Montanos
 Puya angulonis,MA,Mesoandina
-Puya angulonis,PAR,PAR
+Puya angulonis,PAR,Páramo
 Puya angusta,MA,Mesoandina
 Puya angusta,PSH,Puna Húmeda y Seca
 Puya angusta,AA,Altoandina
@@ -1556,7 +1556,7 @@ Puya casmichensis,MA,Mesoandina
 Puya cerrateana,PSH,Puna Húmeda y Seca
 Puya cerrateana,AA,Altoandina
 Puya commixta,BMHM,Bosques Muy Húmedos Montanos
-Puya coriacea,PAR,PAR
+Puya coriacea,PAR,Páramo
 Puya cylindrica,MA,Mesoandina
 Puya densiflora,MA,Mesoandina
 Puya depauperata,MA,Mesoandina
@@ -1565,7 +1565,7 @@ Puya ferox,BMHM,Bosques Muy Húmedos Montanos
 Puya ferreyrae,MA,Mesoandina
 Puya fulgens,BMHM,Bosques Muy Húmedos Montanos
 Puya gerdae,MA,Mesoandina
-Puya gerd-muelleri,PAR,PAR
+Puya gerd-muelleri,PAR,Páramo
 Puya glandulosa,MA,Mesoandina
 Puya gracilis,MA,Mesoandina
 Puya grandidens,MA,Mesoandina
@@ -1597,11 +1597,11 @@ Puya oxyantha,PSH,Puna Húmeda y Seca
 Puya pitcairnioides,BS,Bosques Secos
 Puya ponderosa,PSH,Puna Húmeda y Seca
 Puya pratensis,PSH,Puna Húmeda y Seca
-Puya pratensis,PAR,PAR
+Puya pratensis,PAR,Páramo
 Puya pseudoeryngioides,BMHM,Bosques Muy Húmedos Montanos
 Puya pyramidata,MA,Mesoandina
-Puya pyramidata,PAR,PAR
-Puya ramonii,PAR,PAR
+Puya pyramidata,PAR,Páramo
+Puya ramonii,PAR,Páramo
 Puya ramosa,BPM,Bosques Pluviales Montanos
 Puya rauhii,PSH,Puna Húmeda y Seca
 Puya reflexiflora,MA,Mesoandina
@@ -1664,9 +1664,9 @@ Tillandsia latifolia,Sin datos,Sin datos
 Tillandsia laxissima var. moorei,BMHM,Bosques Muy Húmedos Montanos
 Tillandsia lindenii,MA,Mesoandina
 Tillandsia lopezii,MA,Mesoandina
-Tillandsia lopezii,PAR,PAR
+Tillandsia lopezii,PAR,Páramo
 Tillandsia macbrideana,MA,Mesoandina
-Tillandsia macbrideana,PAR,PAR
+Tillandsia macbrideana,PAR,Páramo
 Tillandsia micans,MA,Mesoandina
 Tillandsia mima,Sin datos,Sin datos
 Tillandsia oroyensis,Sin datos,Sin datos
@@ -1710,7 +1710,7 @@ Brunellia dulcis,BMHM,Bosques Muy Húmedos Montanos
 Brunellia hexasepala,BMHM,Bosques Muy Húmedos Montanos
 Brunellia weberbaueri,BMHM,Bosques Muy Húmedos Montanos
 Buddleja blattaria,MA,Mesoandina
-Buddleja blattaria,PAR,PAR
+Buddleja blattaria,PAR,Páramo
 Buddleja vexans,PSH,Puna Húmeda y Seca
 Protium glaucum,BHA,Bosques Húmedos Amazónicos
 Trattinnickia laxiflora,BMHP,Bosques Muy Húmedos Premontanos
@@ -1984,36 +1984,36 @@ Calceolaria aperta,PSH,Puna Húmeda y Seca
 Calceolaria aperta,MA,Mesoandina
 Calceolaria arbuscula,BPM,Bosques Pluviales Montanos
 Calceolaria argentea,MA,Mesoandina
-Calceolaria argentea,PAR,PAR
+Calceolaria argentea,PAR,Páramo
 Calceolaria atahualpae,MA,Mesoandina
 Calceolaria atahualpae,BPM,Bosques Pluviales Montanos
 Calceolaria aurea,MA,Mesoandina
 Calceolaria aurea,PSH,Puna Húmeda y Seca
 Calceolaria aurea,PD,Puna Desértica
-Calceolaria ballotifolia,PAR,PAR
+Calceolaria ballotifolia,PAR,Páramo
 Calceolaria ballotifolia,BPM,Bosques Pluviales Montanos
 Calceolaria ballotifolia,BMHM,Bosques Muy Húmedos Montanos
-Calceolaria barbata,PAR,PAR
+Calceolaria barbata,PAR,Páramo
 Calceolaria bicolor,MA,Mesoandina
 Calceolaria bicolor,PSH,Puna Húmeda y Seca
 Calceolaria bicrenata,MA,Mesoandina
 Calceolaria bicrenata,PSH,Puna Húmeda y Seca
 Calceolaria bicrenata,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria bullata,MA,Mesoandina
-Calceolaria caespitosa,PAR,PAR
+Calceolaria caespitosa,PAR,Páramo
 Calceolaria cajabambae,MA,Mesoandina
 Calceolaria cajabambae,PSH,Puna Húmeda y Seca
-Calceolaria cajabambae,PAR,PAR
+Calceolaria cajabambae,PAR,Páramo
 Calceolaria chaetostemon,MA,Mesoandina
 Calceolaria comosa,MA,Mesoandina
-Calceolaria comosa,PAR,PAR
-Calceolaria concava,PAR,PAR
+Calceolaria comosa,PAR,Páramo
+Calceolaria concava,PAR,Páramo
 Calceolaria connatifolia,BPM,Bosques Pluviales Montanos
 Calceolaria connatifolia,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria cordifolia,PSH,Puna Húmeda y Seca
 Calceolaria cordifolia,BPM,Bosques Pluviales Montanos
 Calceolaria cordiformis,MA,Mesoandina
-Calceolaria cumbemayensis,PAR,PAR
+Calceolaria cumbemayensis,PAR,Páramo
 Calceolaria cuneiformis,MDE,Matorral Desértico
 Calceolaria cuneiformis,PSH,Puna Húmeda y Seca
 Calceolaria cuneiformis,MA,Mesoandina
@@ -2023,13 +2023,13 @@ Calceolaria deflexa,PSH,Puna Húmeda y Seca
 Calceolaria deflexa,MA,Mesoandina
 Calceolaria densiflora,MA,Mesoandina
 Calceolaria dentifolia,MA,Mesoandina
-Calceolaria dentifolia,PAR,PAR
+Calceolaria dentifolia,PAR,Páramo
 Calceolaria discotheca,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria divaricata,MDE,Matorral Desértico
 Calceolaria divaricata,MA,Mesoandina
 Calceolaria engleriana,BPM,Bosques Pluviales Montanos
 Calceolaria engleriana,BMHM,Bosques Muy Húmedos Montanos
-Calceolaria ericoides,PAR,PAR
+Calceolaria ericoides,PAR,Páramo
 Calceolaria extensa,BPM,Bosques Pluviales Montanos
 Calceolaria flexuosa,MA,Mesoandina
 Calceolaria gaultherioides,BPM,Bosques Pluviales Montanos
@@ -2038,44 +2038,44 @@ Calceolaria glauca,MA,Mesoandina
 Calceolaria heterophylla,MA,Mesoandina
 Pombalia calceolaria,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria hispida,MA,Mesoandina
-Calceolaria hispida,PAR,PAR
+Calceolaria hispida,PAR,Páramo
 Calceolaria hispida,MDE,Matorral Desértico
 Calceolaria hispida,MA,Mesoandina
-Calceolaria hispida,PAR,PAR
+Calceolaria hispida,PAR,Páramo
 Calceolaria inamoena,MA,Mesoandina
 Calceolaria inamoena,PSH,Puna Húmeda y Seca
 Calceolaria inamoena,AA,Altoandina
 Calceolaria inaudita,AA,Altoandina
 Calceolaria incarum,MA,Mesoandina
 Calceolaria incarum,PSH,Puna Húmeda y Seca
-Calceolaria incarum,PAR,PAR
+Calceolaria incarum,PAR,Páramo
 Calceolaria incarum,AA,Altoandina
-Calceolaria incarum,PAR,PAR
+Calceolaria incarum,PAR,Páramo
 Calceolaria inflexa,MA,Mesoandina
 Calceolaria inflexa,PSH,Puna Húmeda y Seca
 Calceolaria inflexa,BPM,Bosques Pluviales Montanos
 Calceolaria inflexa,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria laevis,MA,Mesoandina
 Calceolaria laevis,PSH,Puna Húmeda y Seca
-Calceolaria laevis,PAR,PAR
+Calceolaria laevis,PAR,Páramo
 Calceolaria leptantha,MA,Mesoandina
 Calceolaria linearis,MA,Mesoandina
 Calceolaria linearis,PSH,Puna Húmeda y Seca
-Calceolaria linearis,PAR,PAR
+Calceolaria linearis,PAR,Páramo
 Calceolaria linearis,AA,Altoandina
 Calceolaria llamaensis,MDE,Matorral Desértico
 Calceolaria llamaensis,MA,Mesoandina
 Calceolaria ludens,MA,Mesoandina
 Calceolaria luteocalyx,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria maculata,MA,Mesoandina
-Calceolaria maculata,PAR,PAR
+Calceolaria maculata,PAR,Páramo
 Calceolaria melissifolia,MA,Mesoandina
-Calceolaria melissifolia,PAR,PAR
+Calceolaria melissifolia,PAR,Páramo
 Calceolaria melissifolia,BPM,Bosques Pluviales Montanos
 Calceolaria melissifolia,BPM,Bosques Pluviales Montanos
 Calceolaria melissifolia,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria micans,MA,Mesoandina
-Calceolaria micans,PAR,PAR
+Calceolaria micans,PAR,Páramo
 Calceolaria moyobambae,BPM,Bosques Pluviales Montanos
 Calceolaria moyobambae,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria myriophylla,MA,Mesoandina
@@ -2084,13 +2084,13 @@ Calceolaria neglecta,MA,Mesoandina
 Calceolaria neglecta,PSH,Puna Húmeda y Seca
 Calceolaria nivalis,MA,Mesoandina
 Calceolaria nivalis,PSH,Puna Húmeda y Seca
-Calceolaria nivalis,PAR,PAR
-Calceolaria obliqua,PAR,PAR
+Calceolaria nivalis,PAR,Páramo
+Calceolaria obliqua,PAR,Páramo
 Calceolaria oblonga,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria olivacea,PSH,Puna Húmeda y Seca
 Calceolaria olivacea,BPM,Bosques Pluviales Montanos
 Calceolaria oreophila,MA,Mesoandina
-Calceolaria percaespitosa,PAR,PAR
+Calceolaria percaespitosa,PAR,Páramo
 Calceolaria phaceliifolia,MA,Mesoandina
 Calceolaria phaceliifolia,PSH,Puna Húmeda y Seca
 Calceolaria pilosa,MA,Mesoandina
@@ -2101,36 +2101,36 @@ Calceolaria procera,MA,Mesoandina
 Calceolaria procera,PSH,Puna Húmeda y Seca
 Calceolaria procera,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria pulverulenta,MA,Mesoandina
-Calceolaria pumila,PAR,PAR
+Calceolaria pumila,PAR,Páramo
 Calceolaria punicea,BPM,Bosques Pluviales Montanos
 Calceolaria punicea,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria ramosa,MA,Mesoandina
 Calceolaria rariflora,PSH,Puna Húmeda y Seca
 Calceolaria reichlinii,MA,Mesoandina
-Calceolaria reichlinii,PAR,PAR
+Calceolaria reichlinii,PAR,Páramo
 Calceolaria revoluta,PSH,Puna Húmeda y Seca
 Calceolaria revoluta,BPM,Bosques Pluviales Montanos
 Calceolaria rhacodes,MA,Mesoandina
 Calceolaria rhododendroides,MA,Mesoandina
-Calceolaria rhododendroides,PAR,PAR
+Calceolaria rhododendroides,PAR,Páramo
 Calceolaria rhombifolia,MDE,Matorral Desértico
 Calceolaria rhombifolia,MA,Mesoandina
 Calceolaria rotundifolia,MDE,Matorral Desértico
 Calceolaria rotundifolia,MA,Mesoandina
-Calceolaria rotundifolia,PAR,PAR
+Calceolaria rotundifolia,PAR,Páramo
 Calceolaria rufescens,BPM,Bosques Pluviales Montanos
 Calceolaria rufescens,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria rupestris,MA,Mesoandina
 Calceolaria rupestris,PSH,Puna Húmeda y Seca
 Calceolaria salicifolia,BPM,Bosques Pluviales Montanos
 Calceolaria salicifolia,BMHM,Bosques Muy Húmedos Montanos
-Calceolaria salicifolia,PAR,PAR
+Calceolaria salicifolia,PAR,Páramo
 Calceolaria salicifolia,BPM,Bosques Pluviales Montanos
 Calceolaria scabra,MA,Mesoandina
 Calceolaria scabra,PSH,Puna Húmeda y Seca
 Calceolaria scabra,AA,Altoandina
 Calceolaria sclerophylla,PD,Puna Desértica
-Calceolaria sibthorpioides,PAR,PAR
+Calceolaria sibthorpioides,PAR,Páramo
 Calceolaria sonchensis,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria speciosa,PSH,Puna Húmeda y Seca
 Calceolaria speciosa,BPM,Bosques Pluviales Montanos
@@ -2138,7 +2138,7 @@ Calceolaria speciosa,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria tetragona,MA,Mesoandina
 Calceolaria tetragona,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria tetragona,MA,Mesoandina
-Calceolaria tetragona,PAR,PAR
+Calceolaria tetragona,PAR,Páramo
 Calceolaria tomentosa,MA,Mesoandina
 Calceolaria triloba,PSH,Puna Húmeda y Seca
 Calceolaria trilobata subsp. aequilateralis,BPM,Bosques Pluviales Montanos
@@ -2146,7 +2146,7 @@ Calceolaria trilobata subsp. aequilateralis,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria utricularioides,DST,Desierto Semicálido Tropical
 Calceolaria utricularioides,MA,Mesoandina
 Calceolaria utricularioides,PSH,Puna Húmeda y Seca
-Calceolaria utricularioides,PAR,PAR
+Calceolaria utricularioides,PAR,Páramo
 Calceolaria velutinoides,BPM,Bosques Pluviales Montanos
 Calceolaria velutinoides,BMHM,Bosques Muy Húmedos Montanos
 Calceolaria viscosa,PSH,Puna Húmeda y Seca
@@ -2161,7 +2161,7 @@ Centropogon david-smithii,BMHM,Bosques Muy Húmedos Montanos
 Centropogon dianae,MA,Mesoandina
 Centropogon dillonii,BMHM,Bosques Muy Húmedos Montanos
 Centropogon eilersii,BMHM,Bosques Muy Húmedos Montanos
-Centropogon featherstonei,PAR,PAR
+Centropogon featherstonei,PAR,Páramo
 Centropogon featherstonei,BMHM,Bosques Muy Húmedos Montanos
 Centropogon hypotrichus,Sin datos,Sin datos
 Centropogon isabellinus,BPM,Bosques Pluviales Montanos
@@ -2176,7 +2176,7 @@ Centropogon simulans,MA,Mesoandina
 Centropogon varicus,BMHM,Bosques Muy Húmedos Montanos
 Centropogon vitifolius,BMHP,Bosques Muy Húmedos Premontanos
 Centropogon weberbaueri,BMHM,Bosques Muy Húmedos Montanos
-Lysipomia globularis,PAR,PAR
+Lysipomia globularis,PAR,Páramo
 Siphocampylus actinothrix,BPM,Bosques Pluviales Montanos
 Siphocampylus actinothrix,BMHM,Bosques Muy Húmedos Montanos
 Siphocampylus arachnes,BMHM,Bosques Muy Húmedos Montanos
@@ -2190,7 +2190,7 @@ Siphocampylus longior,BMHM,Bosques Muy Húmedos Montanos
 Siphocampylus oscitans,BPM,Bosques Pluviales Montanos
 Siphocampylus oscitans,BMHM,Bosques Muy Húmedos Montanos
 Siphocampylus platysiphon,MA,Mesoandina
-Siphocampylus platysiphon,PAR,PAR
+Siphocampylus platysiphon,PAR,Páramo
 Siphocampylus plegmatocaulis,BMHM,Bosques Muy Húmedos Montanos
 Siphocampylus rictus,MA,Mesoandina
 Siphocampylus rosmarinifolius,BPM,Bosques Pluviales Montanos
@@ -2218,7 +2218,7 @@ Arenaria crassipes,PSH,Puna Húmeda y Seca
 Arenaria crassipes,AA,Altoandina
 Arenaria engleriana,PSH,Puna Húmeda y Seca
 Arenaria mattfeldii,AA,Altoandina
-Arenaria nitida,PAR,PAR
+Arenaria nitida,PAR,Páramo
 Arenaria nitida,AA,Altoandina
 Arenaria pallens,AA,Altoandina
 Arenaria poeppigiana,DST,Desierto Semicálido Tropical
@@ -2237,7 +2237,7 @@ Drymaria divaricata var. viscidula,MA,Mesoandina
 Drymaria engleriana var. engleriana,MA,Mesoandina
 Drymaria fasciculata,MA,Mesoandina
 Drymaria fasciculata,PSH,Puna Húmeda y Seca
-Drymaria frutescens,PAR,PAR
+Drymaria frutescens,PAR,Páramo
 Drymaria glaberrima,MA,Mesoandina
 Drymaria grandiflora,MA,Mesoandina
 Drymaria paposana var. serrulata,DST,Desierto Semicálido Tropical
@@ -2246,9 +2246,9 @@ Drymaria praecox,PSH,Puna Húmeda y Seca
 Drymaria praecox,BPM,Bosques Pluviales Montanos
 Paronychia andina,AA,Altoandina
 Paronychia ellenbergii,MA,Mesoandina
-Paronychia fusciflora,PAR,PAR
+Paronychia fusciflora,PAR,Páramo
 Paronychia libertadiana,PSH,Puna Húmeda y Seca
-Paronychia libertadiana,PAR,PAR
+Paronychia libertadiana,PAR,Páramo
 Paronychia libertadiana,AA,Altoandina
 Paronychia limaei,MA,Mesoandina
 Paronychia limaei,PSH,Puna Húmeda y Seca
@@ -2309,11 +2309,11 @@ Clusia sandiensis,BMHM,Bosques Muy Húmedos Montanos
 Clusia spruceana,BMHP,Bosques Muy Húmedos Premontanos
 Haploclathra cordata,BHA,Bosques Húmedos Amazónicos
 Havetiopsis hippocrateoides,BHA,Bosques Húmedos Amazónicos
-Hypericum callacallanum,PAR,PAR
-Hypericum cassiopiforme,PAR,PAR
-Hypericum recurvum,PAR,PAR
+Hypericum callacallanum,PAR,Páramo
+Hypericum cassiopiforme,PAR,Páramo
+Hypericum recurvum,PAR,Páramo
 Hypericum recurvum,BPM,Bosques Pluviales Montanos
-Hypericum stuebelii,PAR,PAR
+Hypericum stuebelii,PAR,Páramo
 Hypericum stuebelii,BPM,Bosques Pluviales Montanos
 Hypericum wurdackii,BMHM,Bosques Muy Húmedos Montanos
 Kielmeyera peruviana,BMHM,Bosques Muy Húmedos Montanos
@@ -2350,7 +2350,7 @@ Echeveria eurychlamys,BS,Bosques Secos
 Echeveria excelsa,AA,Altoandina
 Echeveria excelsa,MA,Mesoandina
 Echeveria excelsa,PSH,Puna Húmeda y Seca
-Echeveria oreophila,PAR,PAR
+Echeveria oreophila,PAR,Páramo
 Echeveria utcubambensis,BS,Bosques Secos
 Echeveria wurdackii,BMHM,Bosques Muy Húmedos Montanos
 Sedum reniforme,MA,Mesoandina
@@ -2419,7 +2419,7 @@ Dicranopygium latissimum,BMHP,Bosques Muy Húmedos Premontanos
 Dicranopygium pachystemon,BHA,Bosques Húmedos Amazónicos
 Sphaeradenia angustifolia,BMHM,Bosques Muy Húmedos Montanos
 Carex david-smithii,PSH,Puna Húmeda y Seca
-Carex hebetata,PAR,PAR
+Carex hebetata,PAR,Páramo
 Carex hebetata,AA,Altoandina
 Cyperus tacnensis var. weberbaueri,DST,Desierto Semicálido Tropical
 Eleocharis grossimucronata,MA,Mesoandina
@@ -2433,7 +2433,7 @@ Doliocarpus pipolyi,BHA,Bosques Húmedos Amazónicos
 Neodillenia peruviana,BHA,Bosques Húmedos Amazónicos
 Dioscorea ainensis,BMHP,Bosques Muy Húmedos Premontanos
 Dioscorea ancachsensis,PSH,Puna Húmeda y Seca
-Dioscorea ancachsensis,PAR,PAR
+Dioscorea ancachsensis,PAR,Páramo
 Dioscorea andromedusae,BMHM,Bosques Muy Húmedos Montanos
 Dioscorea callacatensis,Sin datos,Sin datos
 Dioscorea chagllaensis,BMHM,Bosques Muy Húmedos Montanos
@@ -2468,7 +2468,7 @@ Lissocarpa uyat,BHA,Bosques Húmedos Amazónicos
 Lepidoceras peruvianum,MA,Mesoandina
 Agarista bracamorensis,MA,Mesoandina
 Agarista subcordata,MA,Mesoandina
-Agarista subcordata,PAR,PAR
+Agarista subcordata,PAR,Páramo
 Bejaria infundibula,MA,Mesoandina
 Bejaria infundibula,BMHM,Bosques Muy Húmedos Montanos
 Cavendishia nobilis var. nobilis,BMHM,Bosques Muy Húmedos Montanos
@@ -2534,9 +2534,9 @@ Vaccinium mathewsii,BMHM,Bosques Muy Húmedos Montanos
 Vaccinium pseudocaracasanum,MA,Mesoandina
 Vaccinium pseudocaracasanum,BMHM,Bosques Muy Húmedos Montanos
 Vaccinium sphyrospermoides,BMHM,Bosques Muy Húmedos Montanos
-Eriocaulon peruvianum,PAR,PAR
+Eriocaulon peruvianum,PAR,Páramo
 Paepalanthus dichotomus var. glabrescens,BMHM,Bosques Muy Húmedos Montanos
-Paepalanthus ferreyrae,PAR,PAR
+Paepalanthus ferreyrae,PAR,Páramo
 Paepalanthus ferreyrae,BMHP,Bosques Muy Húmedos Premontanos
 Paepalanthus longivaginatus,BMHM,Bosques Muy Húmedos Montanos
 Paepalanthus weberbaueri,BMHM,Bosques Muy Húmedos Montanos
@@ -2617,7 +2617,7 @@ Astragalus pickeringii,AA,Altoandina
 Astragalus romasanus,MDE,Matorral Desértico
 Astragalus romasanus,MA,Mesoandina
 Astragalus romasanus,PSH,Puna Húmeda y Seca
-Astragalus sagasteguii,PAR,PAR
+Astragalus sagasteguii,PAR,Páramo
 Bauhinia accrescens,BHA,Bosques Húmedos Amazónicos
 Bauhinia guentheri,BHA,Bosques Húmedos Amazónicos
 Bauhinia porphyrotricha var. killipiana,BMHP,Bosques Muy Húmedos Premontanos
@@ -2712,7 +2712,7 @@ Lupinus arequipensis,DST,Desierto Semicálido Tropical
 Lupinus arizelus,Sin datos,Sin datos
 Lupinus asa-grayanus,PSH,Puna Húmeda y Seca
 Lupinus asymbepus,MA,Mesoandina
-Lupinus asymbepus,PAR,PAR
+Lupinus asymbepus,PAR,Páramo
 Lupinus austrobicolor,MA,Mesoandina
 Lupinus austrosericeus,PSH,Puna Húmeda y Seca
 Lupinus barbatilabius,MA,Mesoandina
@@ -2736,7 +2736,7 @@ Lupinus chavanillensis,MA,Mesoandina
 Lupinus chongos-bajous,MA,Mesoandina
 Lupinus chongos-bajous,PSH,Puna Húmeda y Seca
 Lupinus chrysanthus,PSH,Puna Húmeda y Seca
-Lupinus chrysanthus,PAR,PAR
+Lupinus chrysanthus,PAR,Páramo
 Lupinus chumbivilcensis,PSH,Puna Húmeda y Seca
 Lupinus cochapatensis,MA,Mesoandina
 Lupinus colcabambensis,MA,Mesoandina
@@ -2813,7 +2813,7 @@ Lupinus paucartambensis,BPM,Bosques Pluviales Montanos
 Lupinus perblandus,Sin datos,Sin datos
 Lupinus peruvianus,MA,Mesoandina
 Lupinus peruvianus,PSH,Puna Húmeda y Seca
-Lupinus peruvianus,PAR,PAR
+Lupinus peruvianus,PAR,Páramo
 Lupinus pickeringii,PSH,Puna Húmeda y Seca
 Lupinus pinguis,AA,Altoandina
 Lupinus pipersmithianus,MA,Mesoandina
@@ -2835,7 +2835,7 @@ Lupinus sandiensis,BMHM,Bosques Muy Húmedos Montanos
 Lupinus saxatilis,AA,Altoandina
 Lupinus saxatilis,PSH,Puna Húmeda y Seca
 Lupinus semiprostratus,PSH,Puna Húmeda y Seca
-Lupinus semiprostratus,PAR,PAR
+Lupinus semiprostratus,PAR,Páramo
 Lupinus semperflorens var. peruensis,MDE,Matorral Desértico
 Lupinus semperflorens var. peruensis,MA,Mesoandina
 Lupinus sericeolodix,PSH,Puna Húmeda y Seca
@@ -2926,34 +2926,34 @@ Gentianella alborubra,PSH,Puna Húmeda y Seca
 Gentianella andreae-mathewsii,Sin datos,Sin datos
 Gentianella brandtiana,PSH,Puna Húmeda y Seca
 Gentianella brunneotincta,PSH,Puna Húmeda y Seca
-Gentianella brunneotincta,PAR,PAR
+Gentianella brunneotincta,PAR,Páramo
 Gentianella calcarea,PSH,Puna Húmeda y Seca
 Gentianella campanuliformis,MA,Mesoandina
 Gentianella campanuliformis,PSH,Puna Húmeda y Seca
 Gentianella carneorubra,PSH,Puna Húmeda y Seca
 Gentianella centamalensis,PSH,Puna Húmeda y Seca
-Gentianella centamalensis,PAR,PAR
+Gentianella centamalensis,PAR,Páramo
 Gentianella cerrateae,PSH,Puna Húmeda y Seca
-Gentianella cerrateae,PAR,PAR
-Gentianella chamuchui,PAR,PAR
-Gentianella chlorantha,PAR,PAR
+Gentianella cerrateae,PAR,Páramo
+Gentianella chamuchui,PAR,Páramo
+Gentianella chlorantha,PAR,Páramo
 Gentianella coccinea,MA,Mesoandina
-Gentianella corallina,PAR,PAR
+Gentianella corallina,PAR,Páramo
 Gentianella crassicaulis,PSH,Puna Húmeda y Seca
-Gentianella crassicaulis,PAR,PAR
+Gentianella crassicaulis,PAR,Páramo
 Gentianella crossolaema,PSH,Puna Húmeda y Seca
 Gentianella dianthoides,PSH,Puna Húmeda y Seca
-Gentianella dianthoides,PAR,PAR
+Gentianella dianthoides,PAR,Páramo
 Gentianella dilatata,PSH,Puna Húmeda y Seca
 Gentianella dissitifolia,MA,Mesoandina
 Gentianella dombeyana,Sin datos,Sin datos
 Gentianella ericothamna,PSH,Puna Húmeda y Seca
 Gentianella ernestii,PSH,Puna Húmeda y Seca
-Gentianella euphorbiifolia,PAR,PAR
+Gentianella euphorbiifolia,PAR,Páramo
 Gentianella eurysepala,PSH,Puna Húmeda y Seca
 Gentianella fruticulosa,BPM,Bosques Pluviales Montanos
 Gentianella fruticulosa,PSH,Puna Húmeda y Seca
-Gentianella gilgiana,PAR,PAR
+Gentianella gilgiana,PAR,Páramo
 Gentianella gilgiana,AA,Altoandina
 Gentianella herrerae,PSH,Puna Húmeda y Seca
 Gentianella huancaveliquensis,PSH,Puna Húmeda y Seca
@@ -2961,49 +2961,49 @@ Gentianella incurva,PSH,Puna Húmeda y Seca
 Gentianella lilacina,MA,Mesoandina
 Gentianella liniflora,MDE,Matorral Desértico
 Gentianella liniflora,MA,Mesoandina
-Gentianella liniflora,PAR,PAR
+Gentianella liniflora,PAR,Páramo
 Gentianella liniflora,BMHM,Bosques Muy Húmedos Montanos
 Gentianella lobelioides,AA,Altoandina
 Gentianella luridoviolacea,AA,Altoandina
 Gentianella luteomarginata,PSH,Puna Húmeda y Seca
 Gentianella muscoides,AA,Altoandina
 Gentianella nitida,PSH,Puna Húmeda y Seca
-Gentianella oreosilene,PAR,PAR
+Gentianella oreosilene,PAR,Páramo
 Gentianella oreosilene,BPM,Bosques Pluviales Montanos
 Gentianella pavonii,PSH,Puna Húmeda y Seca
 Gentianella pavonii,AA,Altoandina
-Gentianella pernettyoides,PAR,PAR
+Gentianella pernettyoides,PAR,Páramo
 Gentianella persquarrosa,PSH,Puna Húmeda y Seca
 Gentianella petrophila,PSH,Puna Húmeda y Seca
 Gentianella poculifera,PSH,Puna Húmeda y Seca
 Gentianella porphyrantha,AA,Altoandina
 Gentianella potamophila,PSH,Puna Húmeda y Seca
 Gentianella pseudolycopodium,MA,Mesoandina
-Gentianella raimondiana,PAR,PAR
+Gentianella raimondiana,PAR,Páramo
 Gentianella rima,PSH,Puna Húmeda y Seca
 Gentianella roseolilacina,PSH,Puna Húmeda y Seca
 Gentianella sanctorum,PSH,Puna Húmeda y Seca
 Gentianella sanctorum,AA,Altoandina
 Gentianella saxicola,PSH,Puna Húmeda y Seca
 Gentianella scarlatinostriata,AA,Altoandina
-Gentianella setipes,PAR,PAR
-Gentianella speciosissima,PAR,PAR
+Gentianella setipes,PAR,Páramo
+Gentianella speciosissima,PAR,Páramo
 Gentianella speciosissima,BPM,Bosques Pluviales Montanos
 Gentianella thyrsoidea,PSH,Puna Húmeda y Seca
-Gentianella thyrsoidea,PAR,PAR
+Gentianella thyrsoidea,PAR,Páramo
 Gentianella thyrsoidea,AA,Altoandina
 Gentianella tovariana,PSH,Puna Húmeda y Seca
 Gentianella tristicha,PSH,Puna Húmeda y Seca
-Gentianella tristicha,PAR,PAR
+Gentianella tristicha,PAR,Páramo
 Gentianella tristicha,AA,Altoandina
 Gentianella vaginalis,PSH,Puna Húmeda y Seca
 Gentianella vaginalis,AA,Altoandina
 Gentianella violacea,PSH,Puna Húmeda y Seca
-Gentianella violacea,PAR,PAR
+Gentianella violacea,PAR,Páramo
 Gentianella weberbaueri,PSH,Puna Húmeda y Seca
 Gentianella weberbaueri,AA,Altoandina
 Halenia barbicaulis,Sin datos,Sin datos
-Halenia bella,PAR,PAR
+Halenia bella,PAR,Páramo
 Halenia bella,MA,Mesoandina
 Halenia bella,BMHM,Bosques Muy Húmedos Montanos
 Halenia killipii,AA,Altoandina
@@ -3013,7 +3013,7 @@ Halenia phyteumoides,Sin datos,Sin datos
 Halenia pinifolia,Sin datos,Sin datos
 Halenia spatulata,PSH,Puna Húmeda y Seca
 Halenia stuebelii,PSH,Puna Húmeda y Seca
-Halenia stuebelii,PAR,PAR
+Halenia stuebelii,PAR,Páramo
 Halenia weberbaueri,AA,Altoandina
 Lehmanniella huanucensis,BMHP,Bosques Muy Húmedos Premontanos
 Macrocarpaea angustifolia,BMHM,Bosques Muy Húmedos Montanos
@@ -3026,7 +3026,7 @@ Macrocarpaea ericii,BMHM,Bosques Muy Húmedos Montanos
 Macrocarpaea fortisiana,BMHP,Bosques Muy Húmedos Premontanos
 Macrocarpaea gran-pajatena,BMHM,Bosques Muy Húmedos Montanos
 Macrocarpaea guttifera,BHA,Bosques Húmedos Amazónicos
-Macrocarpaea jalca,PAR,PAR
+Macrocarpaea jalca,PAR,Páramo
 Macrocarpaea jalca,BPM,Bosques Pluviales Montanos
 Macrocarpaea kayakifolia,BMHM,Bosques Muy Húmedos Montanos
 Macrocarpaea kuelap,BMHM,Bosques Muy Húmedos Montanos
@@ -3052,7 +3052,7 @@ Macrocarpaea viscosa,BMHM,Bosques Muy Húmedos Montanos
 Macrocarpaea wallnoeferi,BMHP,Bosques Muy Húmedos Premontanos
 Macrocarpaea weigendiorum,BMHP,Bosques Muy Húmedos Premontanos
 Macrocarpaea weigendiorum,BHA,Bosques Húmedos Amazónicos
-Macrocarpaea wurdackii,PAR,PAR
+Macrocarpaea wurdackii,PAR,Páramo
 Macrocarpaea wurdackii,BMHM,Bosques Muy Húmedos Montanos
 Macrocarpaea xerantifulva,BMHM,Bosques Muy Húmedos Montanos
 Macrocarpaea zophoflora,BMHM,Bosques Muy Húmedos Montanos
@@ -3075,9 +3075,9 @@ Geranium matucanense,MA,Mesoandina
 Geranium limae,DST,Desierto Semicálido Tropical
 Geranium nivale,PSH,Puna Húmeda y Seca
 Geranium pavonianum,AA,Altoandina
-Geranium raimondii,PAR,PAR
+Geranium raimondii,PAR,Páramo
 Geranium renifolium,MA,Mesoandina
-Geranium sagasteguii,PAR,PAR
+Geranium sagasteguii,PAR,Páramo
 Geranium ayacuchense,Sin datos,Sin datos
 Geranium smithianum,MA,Mesoandina
 Geranium tovarii,AA,Altoandina
@@ -3156,7 +3156,7 @@ Terpsichore bipinnata,PSH,Puna Húmeda y Seca
 Terpsichore bipinnata,BPM,Bosques Pluviales Montanos
 Alansmia immixta,BMHM,Bosques Muy Húmedos Montanos
 Escallonia cuneifolia,BMHM,Bosques Muy Húmedos Montanos
-Escallonia polifolia,PAR,PAR
+Escallonia polifolia,PAR,Páramo
 Escallonia polifolia,BPM,Bosques Pluviales Montanos
 Ribes amazonica,BPM,Bosques Pluviales Montanos
 Ribes amazonica,BMHM,Bosques Muy Húmedos Montanos
@@ -3204,15 +3204,15 @@ Tigridia albicans,PD,Puna Desértica
 Tigridia huyanae,MA,Mesoandina
 Tigridia minuta,Sin datos,Sin datos
 Tigridia raimondii,DST,Desierto Semicálido Tropical
-Isoetes dispora,PAR,PAR
-Isoetes hewitsonii,PAR,PAR
+Isoetes dispora,PAR,Páramo
+Isoetes hewitsonii,PAR,Páramo
 Isoetes parvula,AA,Altoandina
 Isoetes saracochensis,PSH,Puna Húmeda y Seca
 Isoetes saracochensis,AA,Altoandina
 Cuphea vargasii,BMHM,Bosques Muy Húmedos Montanos
 Clinopodium argenteum,MA,Mesoandina
 Clinopodium clivorum,MA,Mesoandina
-Clinopodium clivorum,PAR,PAR
+Clinopodium clivorum,PAR,Páramo
 Clinopodium cylindrostachys,BPM,Bosques Pluviales Montanos
 Clinopodium cylindrostachys,BMHM,Bosques Muy Húmedos Montanos
 Clinopodium flabellifolium,MDE,Matorral Desértico
@@ -3222,7 +3222,7 @@ Clinopodium mathewsii,MA,Mesoandina
 Clinopodium mathewsii,BMHM,Bosques Muy Húmedos Montanos
 Clinopodium plicatulum,MA,Mesoandina
 Clinopodium pulchellum,MA,Mesoandina
-Clinopodium pulchellum,PAR,PAR
+Clinopodium pulchellum,PAR,Páramo
 Clinopodium pulchellum,BS,Bosques Secos
 Clinopodium sericifolium,MA,Mesoandina
 Clinopodium speciosum,MA,Mesoandina
@@ -3233,7 +3233,7 @@ Clinopodium striatum,BPM,Bosques Pluviales Montanos
 Clinopodium vargasii,BMHM,Bosques Muy Húmedos Montanos
 Clinopodium weberbaueri,MA,Mesoandina
 Clinopodium weberbaueri,PSH,Puna Húmeda y Seca
-Clinopodium weberbaueri,PAR,PAR
+Clinopodium weberbaueri,PAR,Páramo
 Hyptis elongata,DST,Desierto Semicálido Tropical
 Hyptis elongata,MDE,Matorral Desértico
 Hyptis elongata,MA,Mesoandina
@@ -3258,15 +3258,15 @@ Salvia cuspidata,BS,Bosques Secos
 Salvia cyanicalyx,BMHM,Bosques Muy Húmedos Montanos
 Salvia cylindriflora,Sin datos,Sin datos
 Salvia grisea,MA,Mesoandina
-Salvia grisea,PAR,PAR
+Salvia grisea,PAR,Páramo
 Salvia griseifolia,Sin datos,Sin datos
 Salvia hapalophylla,MA,Mesoandina
 Salvia incurvata,BMHM,Bosques Muy Húmedos Montanos
 Salvia innoxia,MA,Mesoandina
 Salvia lachnostoma,BMHM,Bosques Muy Húmedos Montanos
 Salvia lanicaulis,MA,Mesoandina
-Salvia lanicaulis,PAR,PAR
-Salvia medusa,PAR,PAR
+Salvia lanicaulis,PAR,Páramo
+Salvia medusa,PAR,Páramo
 Salvia obumbrata,BMHP,Bosques Muy Húmedos Premontanos
 Salvia pavonii,BMHM,Bosques Muy Húmedos Montanos
 Salvia perlucida,BMHM,Bosques Muy Húmedos Montanos
@@ -3283,16 +3283,16 @@ Salvia subscandens,MDE,Matorral Desértico
 Salvia tubulosa,BMHP,Bosques Muy Húmedos Premontanos
 Salvia vargasii,MA,Mesoandina
 Salvia weberbaueri,BPM,Bosques Pluviales Montanos
-Salvia xanthophylla,PAR,PAR
+Salvia xanthophylla,PAR,Páramo
 Scutellaria benthamiana,MA,Mesoandina
 Scutellaria benthamiana,PSH,Puna Húmeda y Seca
 Scutellaria benthamiana,BS,Bosques Secos
 Scutellaria gardoquioides,MDE,Matorral Desértico
 Scutellaria gardoquioides,MA,Mesoandina
-Scutellaria gardoquioides,PAR,PAR
+Scutellaria gardoquioides,PAR,Páramo
 Sphacele codon,BMHM,Bosques Muy Húmedos Montanos
 Stachys peruviana,PSH,Puna Húmeda y Seca
-Stachys peruviana,PAR,PAR
+Stachys peruviana,PAR,Páramo
 Aniba heterotepala,BHA,Bosques Húmedos Amazónicos
 Cinnamomum floccosum,BMHM,Bosques Muy Húmedos Montanos
 Cinnamomum mathewsii,Sin datos,Sin datos
@@ -3391,7 +3391,7 @@ Caiophora madrequisa,MA,Mesoandina
 Caiophora madrequisa,PSH,Puna Húmeda y Seca
 Caiophora peduncularis,MA,Mesoandina
 Caiophora peduncularis,PSH,Puna Húmeda y Seca
-Caiophora peduncularis,PAR,PAR
+Caiophora peduncularis,PAR,Páramo
 Caiophora pterosperma,MA,Mesoandina
 Caiophora pterosperma,PSH,Puna Húmeda y Seca
 Caiophora stenocarpa,MA,Mesoandina
@@ -3425,7 +3425,7 @@ Nasa humboldtiana,MA,Mesoandina
 Nasa insignis,MA,Mesoandina
 Nasa kuelapensis,BPM,Bosques Pluviales Montanos
 Nasa kuelapensis,BMHM,Bosques Muy Húmedos Montanos
-Nasa lambayequensis,PAR,PAR
+Nasa lambayequensis,PAR,Páramo
 Nasa laxa,MA,Mesoandina
 Nasa lenta,BPM,Bosques Pluviales Montanos
 Nasa lenta,BMHM,Bosques Muy Húmedos Montanos
@@ -3449,19 +3449,19 @@ Nasa pascoensis,BMHM,Bosques Muy Húmedos Montanos
 Nasa picta,MA,Mesoandina
 Nasa picta,BMHM,Bosques Muy Húmedos Montanos
 Nasa poissoniana,MA,Mesoandina
-Nasa pongalamesa,PAR,PAR
+Nasa pongalamesa,PAR,Páramo
 Nasa pteridophylla,MA,Mesoandina
 Nasa pteridophylla,MA,Mesoandina
 Nasa raimondii,MA,Mesoandina
 Nasa raimondii,PSH,Puna Húmeda y Seca
 Nasa ranunculifolia,MA,Mesoandina
-Nasa ranunculifolia,PAR,PAR
+Nasa ranunculifolia,PAR,Páramo
 Nasa rugosa,MA,Mesoandina
-Nasa sagasteguii,PAR,PAR
+Nasa sagasteguii,PAR,Páramo
 Nasa solaria,MA,Mesoandina
 Nasa solaria,PSH,Puna Húmeda y Seca
 Nasa solata,MA,Mesoandina
-Nasa solata,PAR,PAR
+Nasa solata,PAR,Páramo
 Nasa stolonifera,MA,Mesoandina
 Nasa stuebeliana,BMHM,Bosques Muy Húmedos Montanos
 Nasa tingomariensis,BMHM,Bosques Muy Húmedos Montanos
@@ -3475,7 +3475,7 @@ Nasa vargasii,MA,Mesoandina
 Nasa victorii,BPM,Bosques Pluviales Montanos
 Nasa victorii,BMHM,Bosques Muy Húmedos Montanos
 Nasa weberbaueri,MA,Mesoandina
-Nasa weberbaueri,PAR,PAR
+Nasa weberbaueri,PAR,Páramo
 Presliophytum heucheraefolium,DST,Desierto Semicálido Tropical
 Presliophytum heucheraefolium,MDE,Matorral Desértico
 Presliophytum incanum,DST,Desierto Semicálido Tropical
@@ -3525,12 +3525,12 @@ Psittacanthus tumbecensis,DCT,Desierto Cálido Tropical
 Struthanthus polystachyus,BHA,Bosques Húmedos Amazónicos
 Struthanthus tenuis,Sin datos,Sin datos
 Tristerix chodatianus,PSH,Puna Húmeda y Seca
-Tristerix chodatianus,PAR,PAR
+Tristerix chodatianus,PAR,Páramo
 Tristerix peruvianus,MA,Mesoandina
 Tristerix peytonii,BPM,Bosques Pluviales Montanos
 Tristerix pubescens,PSH,Puna Húmeda y Seca
-Tristerix pubescens,PAR,PAR
-Phlegmariurus binervius,PAR,PAR
+Tristerix pubescens,PAR,Páramo
+Phlegmariurus binervius,PAR,Páramo
 Phlegmariurus binervius,BMHM,Bosques Muy Húmedos Montanos
 Phlegmariurus buesii,BMHM,Bosques Muy Húmedos Montanos
 Phlegmariurus colanensis,BPM,Bosques Pluviales Montanos
@@ -3538,7 +3538,7 @@ Phlegmariurus engleri,PSH,Puna Húmeda y Seca
 Phlegmariurus engleri,BPM,Bosques Pluviales Montanos
 Phlegmariurus nesselii,PSH,Puna Húmeda y Seca
 Phlegmariurus pruinosus,BMHM,Bosques Muy Húmedos Montanos
-Phlegmariurus sagasteguianus,PAR,PAR
+Phlegmariurus sagasteguianus,PAR,Páramo
 Malesherbia angustisecta,MA,Mesoandina
 Malesherbia ardens,MDE,Matorral Desértico
 Malesherbia ardens,MA,Mesoandina
@@ -3592,19 +3592,19 @@ Abutilon piurense,MDE,Matorral Desértico
 Abutilon piurense,BS,Bosques Secos
 Acaulimalva acaulis,PSH,Puna Húmeda y Seca
 Acaulimalva alismatifolia,MA,Mesoandina
-Acaulimalva alismatifolia,PAR,PAR
+Acaulimalva alismatifolia,PAR,Páramo
 Acaulimalva betonicifolia,PSH,Puna Húmeda y Seca
 Acaulimalva crenata,PSH,Puna Húmeda y Seca
-Acaulimalva crenata,PAR,PAR
+Acaulimalva crenata,PAR,Páramo
 Acaulimalva hillii,MA,Mesoandina
 Acaulimalva hillii,PSH,Puna Húmeda y Seca
 Acaulimalva rhizantha,MA,Mesoandina
 Acaulimalva rhizantha,PSH,Puna Húmeda y Seca
 Acaulimalva richii,PSH,Puna Húmeda y Seca
 Acaulimalva richii,AA,Altoandina
-Acaulimalva stuebelii,PAR,PAR
+Acaulimalva stuebelii,PAR,Páramo
 Acaulimalva sulphurea,PSH,Puna Húmeda y Seca
-Acaulimalva sulphurea,PAR,PAR
+Acaulimalva sulphurea,PAR,Páramo
 Acaulimalva weberbaueri,PSH,Puna Húmeda y Seca
 Andeimalva machupicchensis,BMHM,Bosques Muy Húmedos Montanos
 Andeimalva spiciformis,MA,Mesoandina
@@ -3618,13 +3618,13 @@ Fuertesimalva pennellii,MA,Mesoandina
 Fuertesimalva stipulata,MDE,Matorral Desértico
 Gaya atiquipana,DST,Desierto Semicálido Tropical
 Gaya calyptrata,DST,Desierto Semicálido Tropical
-Gaya calyptrata,NDE,NDE
+Gaya calyptrata,NDE,Matorral Desértico
 Gaya calyptrata,MA,Mesoandina
 Gaya mollendoensis,DST,Desierto Semicálido Tropical
 Gaya nutans,BS,Bosques Secos
 Gaya peruviana,MDE,Matorral Desértico
 Gaya peruviana,MA,Mesoandina
-Gaya peruviana,PAR,PAR
+Gaya peruviana,PAR,Páramo
 Gaya triflora,Sin datos,Sin datos
 Gaya weberbaueri,MDE,Matorral Desértico
 Gaya weberbaueri,BS,Bosques Secos
@@ -3639,7 +3639,7 @@ Nototriche aretioides,AA,Altoandina
 Nototriche argyllioides,PSH,Puna Húmeda y Seca
 Nototriche armeriifolia,PSH,Puna Húmeda y Seca
 Nototriche artemisioides,PSH,Puna Húmeda y Seca
-Nototriche artemisioides,PAR,PAR
+Nototriche artemisioides,PAR,Páramo
 Nototriche borussica,PSH,Puna Húmeda y Seca
 Nototriche castelnaeana,PSH,Puna Húmeda y Seca
 Nototriche castelnaeana,AA,Altoandina
@@ -3655,7 +3655,7 @@ Nototriche foetida,AA,Altoandina
 Nototriche glacialis,AA,Altoandina
 Nototriche gracilens,AA,Altoandina
 Nototriche longituba,AA,Altoandina
-Nototriche lopezii,PAR,PAR
+Nototriche lopezii,PAR,Páramo
 Nototriche macleanii,AA,Altoandina
 Nototriche nigrescens,AA,Altoandina
 Nototriche obtusa,AA,Altoandina
@@ -3731,30 +3731,30 @@ Axinaea tovarii,BMHM,Bosques Muy Húmedos Montanos
 Axinaea weberbaueri,BPM,Bosques Pluviales Montanos
 Blakea standleyana,BMHP,Bosques Muy Húmedos Premontanos
 Blakea standleyana,BHA,Bosques Húmedos Amazónicos
-Brachyotum angustifolium,PAR,PAR
+Brachyotum angustifolium,PAR,Páramo
 Brachyotum angustifolium,BPM,Bosques Pluviales Montanos
 Brachyotum barbeyanum,BMHM,Bosques Muy Húmedos Montanos
-Brachyotum cogniauxii,PAR,PAR
+Brachyotum cogniauxii,PAR,Páramo
 Brachyotum cogniauxii,BMHM,Bosques Muy Húmedos Montanos
 Brachyotum coronatum,BPM,Bosques Pluviales Montanos
 Brachyotum coronatum,BMHM,Bosques Muy Húmedos Montanos
 Brachyotum cutervoanum,BMHM,Bosques Muy Húmedos Montanos
 Brachyotum figueroae,PSH,Puna Húmeda y Seca
-Brachyotum figueroae,PAR,PAR
+Brachyotum figueroae,PAR,Páramo
 Brachyotum huancavelicae,MA,Mesoandina
 Brachyotum intermedium,Sin datos,Sin datos
 Brachyotum longisepalum,PSH,Puna Húmeda y Seca
-Brachyotum longisepalum,PAR,PAR
+Brachyotum longisepalum,PAR,Páramo
 Brachyotum lutescens,MA,Mesoandina
 Brachyotum lutescens,BMHM,Bosques Muy Húmedos Montanos
 Brachyotum maximowiczii,BMHM,Bosques Muy Húmedos Montanos
 Brachyotum maximowiczii,BMHM,Bosques Muy Húmedos Montanos
 Brachyotum multinervium,BMHM,Bosques Muy Húmedos Montanos
-Brachyotum multituberculatum,PAR,PAR
-Brachyotum parvifolium,PAR,PAR
+Brachyotum multituberculatum,PAR,Páramo
+Brachyotum parvifolium,PAR,Páramo
 Brachyotum parvifolium,BMHM,Bosques Muy Húmedos Montanos
 Brachyotum radula,MA,Mesoandina
-Brachyotum radula,PAR,PAR
+Brachyotum radula,PAR,Páramo
 Brachyotum radula,BMHM,Bosques Muy Húmedos Montanos
 Brachyotum rosmarinifolium,PSH,Puna Húmeda y Seca
 Brachyotum rosmarinifolium,AA,Altoandina
@@ -3805,7 +3805,7 @@ Miconia ciliaris,Sin datos,Sin datos
 Miconia clivorum,BMHM,Bosques Muy Húmedos Montanos
 Miconia cookii,BMHM,Bosques Muy Húmedos Montanos
 Miconia crassifolia,Sin datos,Sin datos
-Miconia crassipes,PAR,PAR
+Miconia crassipes,PAR,Páramo
 Miconia crassipes,BMHM,Bosques Muy Húmedos Montanos
 Miconia crassistigma,Sin datos,Sin datos
 Miconia cremophylla,Sin datos,Sin datos
@@ -4008,7 +4008,7 @@ Myrcianthes lanosa,MA,Mesoandina
 Myrcianthes oreophila,MA,Mesoandina
 Myrcianthes oreophila,BPM,Bosques Pluviales Montanos
 Myrcianthes quinqueloba,MA,Mesoandina
-Myrteola acerosa,PAR,PAR
+Myrteola acerosa,PAR,Páramo
 Myrteola acerosa,BPM,Bosques Pluviales Montanos
 Plinia clausa,BHA,Bosques Húmedos Amazónicos
 Psidium fulvum,Sin datos,Sin datos
@@ -4240,7 +4240,7 @@ Epidendrum emarginatum,BPM,Bosques Pluviales Montanos
 Epidendrum exaltatum,MA,Mesoandina
 Epidendrum exaltatum,BMHM,Bosques Muy Húmedos Montanos
 Epidendrum excelsum,PSH,Puna Húmeda y Seca
-Epidendrum excelsum,PAR,PAR
+Epidendrum excelsum,PAR,Páramo
 Epidendrum forcipatum,Sin datos,Sin datos
 Epidendrum frechetteanum,BMHM,Bosques Muy Húmedos Montanos
 Epidendrum fruticulum,BPM,Bosques Pluviales Montanos
@@ -4447,7 +4447,7 @@ Macroclinium villenaorum,Sin datos,Sin datos
 Malaxis termensis var. elata,BMHM,Bosques Muy Húmedos Montanos
 Masdevallia amabilis,MA,Mesoandina
 Masdevallia amabilis,PSH,Puna Húmeda y Seca
-Masdevallia amabilis,PAR,PAR
+Masdevallia amabilis,PAR,Páramo
 Masdevallia amplexa,BMHP,Bosques Muy Húmedos Premontanos
 Masdevallia anomala,BMHM,Bosques Muy Húmedos Montanos
 Masdevallia anomala,BMHP,Bosques Muy Húmedos Premontanos
@@ -4687,7 +4687,7 @@ Oncidium ariasii,BMHM,Bosques Muy Húmedos Montanos
 Oncidium ariasii,BMHP,Bosques Muy Húmedos Premontanos
 Oncidium aspecum,BPM,Bosques Pluviales Montanos
 Oncidium aurorae,BS,Bosques Secos
-Oncidium ayabacanum,PAR,PAR
+Oncidium ayabacanum,PAR,Páramo
 Oncidium bennettii,BMHM,Bosques Muy Húmedos Montanos
 Oncidium bennettii,BPM,Bosques Pluviales Montanos
 Oncidium crassopterum,BMHM,Bosques Muy Húmedos Montanos
@@ -4727,7 +4727,7 @@ Fernandezia ecallosa,BPM,Bosques Pluviales Montanos
 Fernandezia lycopodioides,BPM,Bosques Pluviales Montanos
 Fernandezia parvifolia,BPM,Bosques Pluviales Montanos
 Fernandezia serra,BPM,Bosques Pluviales Montanos
-Fernandezia serra,PAR,PAR
+Fernandezia serra,PAR,Páramo
 Fernandezia tajacayaensis,BPM,Bosques Pluviales Montanos
 Pelexia huntii,Sin datos,Sin datos
 Pelexia pavonii,DST,Desierto Semicálido Tropical
@@ -4773,7 +4773,7 @@ Prosthechea farfanii,BMHM,Bosques Muy Húmedos Montanos
 Prosthechea hajekii,BMHM,Bosques Muy Húmedos Montanos
 Pterichis leucoptera,BPM,Bosques Pluviales Montanos
 Pterichis macroptera,Sin datos,Sin datos
-Pterichis weberbaueriana,PAR,PAR
+Pterichis weberbaueriana,PAR,Páramo
 Restrepia cloesii,Sin datos,Sin datos
 Restrepia mohrii,BMHM,Bosques Muy Húmedos Montanos
 Restrepia mohrii,BMHP,Bosques Muy Húmedos Premontanos
@@ -4791,7 +4791,7 @@ Sarcoglottis micrantha,BHA,Bosques Húmedos Amazónicos
 Sarmenticola calceolaris,BHA,Bosques Húmedos Amazónicos
 Sauroglossum dromadum,MA,Mesoandina
 Sauroglossum schweinfurthianum,MA,Mesoandina
-Sauroglossum schweinfurthianum,PAR,PAR
+Sauroglossum schweinfurthianum,PAR,Páramo
 Scaphosepalum martineae,Sin datos,Sin datos
 Scaphyglottis conferta,BMHP,Bosques Muy Húmedos Premontanos
 Scaphyglottis sublibera,MA,Mesoandina
@@ -4958,7 +4958,7 @@ Telipogon urceolatus,BPM,Bosques Pluviales Montanos
 Telipogon urceolatus,MA,Mesoandina
 Telipogon bennettii,BPM,Bosques Pluviales Montanos
 Trichoceros dombeyi,MA,Mesoandina
-Trichoceros dombeyi,PAR,PAR
+Trichoceros dombeyi,PAR,Páramo
 Trichoceros hajekiorum,MA,Mesoandina
 Trichoceros tupaipi,MA,Mesoandina
 Trichopilia gracilis,BMHM,Bosques Muy Húmedos Montanos
@@ -4973,7 +4973,7 @@ Pendusalpinx glabra,BMHM,Bosques Muy Húmedos Montanos
 Opilionanthe manningii,Sin datos,Sin datos
 Trichosalpinx pandurata,BMHP,Bosques Muy Húmedos Premontanos
 Pendusalpinx sijmii,BMHM,Bosques Muy Húmedos Montanos
-Pendusalpinx sijmii,BHMP,BHMP
+Pendusalpinx sijmii,BHMP,Bosques Muy Húmedos Premontanos
 Trigonidium aurorae,BMHP,Bosques Muy Húmedos Premontanos
 Trigonidium christensonii,BMHM,Bosques Muy Húmedos Montanos
 Trigonidium loretoense,BMHP,Bosques Muy Húmedos Premontanos
@@ -5008,37 +5008,37 @@ Bartsia canescens,AA,Altoandina
 Bartsia crisafullii,MA,Mesoandina
 Bartsia elachophylla,MA,Mesoandina
 Bartsia elachophylla,PSH,Puna Húmeda y Seca
-Bartsia elachophylla,PAR,PAR
+Bartsia elachophylla,PAR,Páramo
 Bartsia flava,PSH,Puna Húmeda y Seca
-Bartsia flava,PAR,PAR
+Bartsia flava,PAR,Páramo
 Bartsia inaequalis,MA,Mesoandina
 Bartsia inaequalis,BMHM,Bosques Muy Húmedos Montanos
 Bartsia integrifolia,MA,Mesoandina
 Bartsia pyricarpa,MA,Mesoandina
 Bartsia pyricarpa,PSH,Puna Húmeda y Seca
-Bartsia pyricarpa,PAR,PAR
+Bartsia pyricarpa,PAR,Páramo
 Bartsia pyricarpa,AA,Altoandina
 Bartsia rigida,MA,Mesoandina
 Bartsia rigida,PSH,Puna Húmeda y Seca
 Bartsia rigida,AA,Altoandina
-Bartsia sericea,PAR,PAR
+Bartsia sericea,PAR,Páramo
 Bartsia strigosa,MA,Mesoandina
-Bartsia strigosa,PAR,PAR
-Bartsia tenuis,PAR,PAR
+Bartsia strigosa,PAR,Páramo
+Bartsia tenuis,PAR,Páramo
 Bartsia tomentosa,PSH,Puna Húmeda y Seca
-Bartsia tomentosa,PAR,PAR
+Bartsia tomentosa,PAR,Páramo
 Bartsia tricolor,PSH,Puna Húmeda y Seca
 Bartsia tricolor,AA,Altoandina
-Castilleja alpicola,PAR,PAR
+Castilleja alpicola,PAR,Páramo
 Castilleja peruviana,MA,Mesoandina
-Castilleja peruviana,PAR,PAR
+Castilleja peruviana,PAR,Páramo
 Castilleja profunda,DST,Desierto Semicálido Tropical
 Castilleja profunda,MDE,Matorral Desértico
 Castilleja profunda,MA,Mesoandina
 Castilleja pseudopallescens,MA,Mesoandina
 Castilleja vadosa,MA,Mesoandina
 Castilleja vadosa,PSH,Puna Húmeda y Seca
-Castilleja vadosa,PAR,PAR
+Castilleja vadosa,PAR,Páramo
 Castilleja virgatoides,MA,Mesoandina
 Castilleja virgatoides,PSH,Puna Húmeda y Seca
 Castilleja virgatoides,AA,Altoandina
@@ -5087,7 +5087,7 @@ Passiflora cumbalensis var. peruana,MA,Mesoandina
 Passiflora cuzcoensis,BMHM,Bosques Muy Húmedos Montanos
 Passiflora frutescens,BMHM,Bosques Muy Húmedos Montanos
 Passiflora heterohelix,BMHP,Bosques Muy Húmedos Premontanos
-Passiflora huamachucoensis,PAR,PAR
+Passiflora huamachucoensis,PAR,Páramo
 Passiflora lanceolata,Sin datos,Sin datos
 Passiflora leptoclada,BHA,Bosques Húmedos Amazónicos
 Passiflora lobbii,MA,Mesoandina
@@ -5106,7 +5106,7 @@ Passiflora runa,BPM,Bosques Pluviales Montanos
 Passiflora runa,BMHM,Bosques Muy Húmedos Montanos
 Passiflora sagasteguii,MA,Mesoandina
 Passiflora sanchezii,MA,Mesoandina
-Passiflora sanchezii,PAR,PAR
+Passiflora sanchezii,PAR,Páramo
 Passiflora skiantha,BHA,Bosques Húmedos Amazónicos
 Passiflora tarapotina,BMHP,Bosques Muy Húmedos Premontanos
 Passiflora tarapotina,BHA,Bosques Húmedos Amazónicos
@@ -5121,7 +5121,7 @@ Peperomia aerea,BMHM,Bosques Muy Húmedos Montanos
 Peperomia alatiscapa,BMHM,Bosques Muy Húmedos Montanos
 Peperomia alismaefolia,Sin datos,Sin datos
 Peperomia andina,MA,Mesoandina
-Peperomia andina,PAR,PAR
+Peperomia andina,PAR,Páramo
 Peperomia anisophylla,MA,Mesoandina
 Peperomia apurimacana,BMHM,Bosques Muy Húmedos Montanos
 Peperomia arborigaudens,BMHM,Bosques Muy Húmedos Montanos
@@ -5134,7 +5134,7 @@ Peperomia artatiflora,MA,Mesoandina
 Peperomia asplundii,BPM,Bosques Pluviales Montanos
 Peperomia balsapuertana,BHA,Bosques Húmedos Amazónicos
 Peperomia binispica,BMHP,Bosques Muy Húmedos Premontanos
-Peperomia boekei,PAR,PAR
+Peperomia boekei,PAR,Páramo
 Peperomia boekei,BMHM,Bosques Muy Húmedos Montanos
 Peperomia caducifolia,BPM,Bosques Pluviales Montanos
 Peperomia calvescens,BMHP,Bosques Muy Húmedos Premontanos
@@ -5711,7 +5711,7 @@ Plantago limensis,DST,Desierto Semicálido Tropical
 Plantago limensis,MDE,Matorral Desértico
 Plantago limensis,MA,Mesoandina
 Plantago sericea var. huancayensis,PSH,Puna Húmeda y Seca
-Plantago sericea var. huancayensis,PAR,PAR
+Plantago sericea var. huancayensis,PAR,Páramo
 Plantago tacnensis,DST,Desierto Semicálido Tropical
 Aristida chiclayensis,DCT,Desierto Cálido Tropical
 Aristida chiclayensis,DST,Desierto Semicálido Tropical
@@ -5724,7 +5724,7 @@ Calamagrostis macbridei,PSH,Puna Húmeda y Seca
 Calamagrostis macbridei,PD,Puna Desértica
 Calamagrostis macbridei,AA,Altoandina
 Calamagrostis pungens,PSH,Puna Húmeda y Seca
-Calamagrostis pungens,PAR,PAR
+Calamagrostis pungens,PAR,Páramo
 Calamagrostis pungens,AA,Altoandina
 Cinnagrostis rauhii,AA,Altoandina
 Chusquea aspera,BMHM,Bosques Muy Húmedos Montanos
@@ -5753,21 +5753,21 @@ Eragrostis magna,BMHM,Bosques Muy Húmedos Montanos
 Eragrostis pilgeri,MDE,Matorral Desértico
 Eragrostis pilgeri,MA,Mesoandina
 Eragrostis pilgeri,PSH,Puna Húmeda y Seca
-Festuca cajamarcae,PAR,PAR
+Festuca cajamarcae,PAR,Páramo
 Festuca carazana,PSH,Puna Húmeda y Seca
-Festuca carazana,PAR,PAR
+Festuca carazana,PAR,Páramo
 Festuca carazana,AA,Altoandina
 Festuca densiflora,AA,Altoandina
 Festuca dentiflora,MA,Mesoandina
 Festuca glabrata,PSH,Puna Húmeda y Seca
 Festuca glyceriantha,PSH,Puna Húmeda y Seca
-Festuca glyceriantha,PAR,PAR
+Festuca glyceriantha,PAR,Páramo
 Festuca horridula,MA,Mesoandina
 Festuca horridula,PSH,Puna Húmeda y Seca
-Festuca horridula,PAR,PAR
+Festuca horridula,PAR,Páramo
 Festuca huamachucensis,MA,Mesoandina
 Festuca huamachucensis,PSH,Puna Húmeda y Seca
-Festuca huamachucensis,PAR,PAR
+Festuca huamachucensis,PAR,Páramo
 Festuca huamachucensis,AA,Altoandina
 Festuca lanatifolia,MA,Mesoandina
 Festuca lanatifolia,PSH,Puna Húmeda y Seca
@@ -5789,7 +5789,7 @@ Jarava macbridei,PSH,Puna Húmeda y Seca
 Jarava macbridei,AA,Altoandina
 Jarava pachypus,DST,Desierto Semicálido Tropical
 Merostachys brevispica,BMHP,Bosques Muy Húmedos Premontanos
-Muhlenbergia caxamarcensis,PAR,PAR
+Muhlenbergia caxamarcensis,PAR,Páramo
 Muhlenbergia flexuosa,BMHM,Bosques Muy Húmedos Montanos
 Muhlenbergia flexuosa,BMHP,Bosques Muy Húmedos Premontanos
 Muhlenbergia maxima,MA,Mesoandina
@@ -5799,7 +5799,7 @@ Nassella ayacuchensis,MA,Mesoandina
 Nassella huallancaensis,PSH,Puna Húmeda y Seca
 Nassella soukupii,PSH,Puna Húmeda y Seca
 Nassella vargasii,MA,Mesoandina
-Nassella wurdackii,PAR,PAR
+Nassella wurdackii,PAR,Páramo
 Nassella wurdackii,BPM,Bosques Pluviales Montanos
 Paspalum anderssonii,Sin datos,Sin datos
 Paspalum barclayi,DST,Desierto Semicálido Tropical
@@ -5818,15 +5818,15 @@ Piptochaetium featherstonei,PSH,Puna Húmeda y Seca
 Piptochaetium featherstonei,AA,Altoandina
 Piptochaetium sagasteguii,MA,Mesoandina
 Piptochaetium tovarii,MA,Mesoandina
-Piptochaetium tovarii,PAR,PAR
-Poa anae,PAR,PAR
+Piptochaetium tovarii,PAR,Páramo
+Poa anae,PAR,Páramo
 Poa anae,AA,Altoandina
 Poa ayacuchensis,PSH,Puna Húmeda y Seca
 Poa fibrifera,MA,Mesoandina
 Poa fibrifera,PSH,Puna Húmeda y Seca
 Poa fibrifera,AA,Altoandina
 Poa fibrifera,MA,Mesoandina
-Poa fibrifera,PAR,PAR
+Poa fibrifera,PAR,Páramo
 Poa huancavelicae,PSH,Puna Húmeda y Seca
 Poa huancavelicae,AA,Altoandina
 Poa marshallii,PSH,Puna Húmeda y Seca
@@ -5896,27 +5896,27 @@ Cheilanthes peruviana,DST,Desierto Semicálido Tropical
 Cheilanthes peruviana,MA,Mesoandina
 Eriosorus accrescens,BPM,Bosques Pluviales Montanos
 Eriosorus accrescens,BMHM,Bosques Muy Húmedos Montanos
-Eriosorus wurdackii,PAR,PAR
-Krapfia macropetala,PAR,PAR
+Eriosorus wurdackii,PAR,Páramo
+Krapfia macropetala,PAR,Páramo
 Laccopetalum giganteum,PSH,Puna Húmeda y Seca
-Laccopetalum giganteum,PAR,PAR
+Laccopetalum giganteum,PAR,Páramo
 Laccopetalum giganteum,AA,Altoandina
 Ranunculus clypeatus,PSH,Puna Húmeda y Seca
-Ranunculus gigas,PAR,PAR
-Ranunculus lambayequensis,PAR,PAR
+Ranunculus gigas,PAR,Páramo
+Ranunculus lambayequensis,PAR,Páramo
 Ranunculus luxurians,PSH,Puna Húmeda y Seca
 Ranunculus polystachyus,PSH,Puna Húmeda y Seca
 Ranunculus weberbaueri,BPM,Bosques Pluviales Montanos
 Johnstonia axilliflora,BS,Bosques Secos
 Ziziphus piurensis,DCT,Desierto Cálido Tropical
-Lachemilla barbata,PAR,PAR
+Lachemilla barbata,PAR,Páramo
 Lachemilla barbata,PSH,Puna Húmeda y Seca
 Alchemilla pseudovenusta,MA,Mesoandina
 Alchemilla repens,MA,Mesoandina
 Lachemilla sandiensis,AA,Altoandina
 Polylepis canoi,BPM,Bosques Pluviales Montanos
 Polylepis flavipila,PSH,Puna Húmeda y Seca
-Polylepis multijuga,PAR,PAR
+Polylepis multijuga,PAR,Páramo
 Polylepis multijuga,BPM,Bosques Pluviales Montanos
 Polylepis multijuga,BMHM,Bosques Muy Húmedos Montanos
 Polylepis subsericans,PSH,Puna Húmeda y Seca
@@ -5927,7 +5927,7 @@ Prunus rotunda,BHA,Bosques Húmedos Amazónicos
 Prunus ruiziana,BMHM,Bosques Muy Húmedos Montanos
 Rubus sparsiflorus,BPM,Bosques Pluviales Montanos
 Rubus sparsiflorus,BMHM,Bosques Muy Húmedos Montanos
-Rubus weberbaueri,PAR,PAR
+Rubus weberbaueri,PAR,Páramo
 Rubus weberbaueri,BPM,Bosques Pluviales Montanos
 Kutchubaea urophylla,BHA,Bosques Húmedos Amazónicos
 Arcytophyllum peruvianum,MA,Mesoandina
@@ -5955,7 +5955,7 @@ Faramea subsessilis,BMHP,Bosques Muy Húmedos Premontanos
 Faramea vasquezii,BHA,Bosques Húmedos Amazónicos
 Galium antuneziae,MA,Mesoandina
 Galium arequipicum,DST,Desierto Semicálido Tropical
-Galium cajamarcense,PAR,PAR
+Galium cajamarcense,PAR,Páramo
 Galium ferrugineum,MDE,Matorral Desértico
 Galium ferrugineum,MA,Mesoandina
 Galium huancavelicum,PSH,Puna Húmeda y Seca
@@ -6004,7 +6004,7 @@ Palicourea punoensis,Sin datos,Sin datos
 Palicourea sandiensis,BMHM,Bosques Muy Húmedos Montanos
 Pentagonia rubriflora,BMHP,Bosques Muy Húmedos Premontanos
 Pentagonia rubriflora,BHA,Bosques Húmedos Amazónicos
-Perama wurdackii,PAR,PAR
+Perama wurdackii,PAR,Páramo
 Schizocalyx multiflorus,BMHP,Bosques Muy Húmedos Premontanos
 Psychotria trichotoma,BMHP,Bosques Muy Húmedos Premontanos
 Psychotria trichotoma,BHA,Bosques Húmedos Amazónicos
@@ -6142,11 +6142,11 @@ Jaltomata mionei,DST,Desierto Semicálido Tropical
 Jaltomata mionei,MDE,Matorral Desértico
 Jaltomata mionei,MA,Mesoandina
 Jaltomata paneroi,MA,Mesoandina
-Jaltomata paneroi,PAR,PAR
+Jaltomata paneroi,PAR,Páramo
 Jaltomata propinqua,MDE,Matorral Desértico
 Jaltomata propinqua,MA,Mesoandina
 Jaltomata sagastegui,MA,Mesoandina
-Jaltomata salpoensis,PAR,PAR
+Jaltomata salpoensis,PAR,Páramo
 Jaltomata umbellata,DST,Desierto Semicálido Tropical
 Jaltomata umbellata,MA,Mesoandina
 Jaltomata ventricosa,MA,Mesoandina
@@ -6190,7 +6190,7 @@ Nicotiana raimondii,MA,Mesoandina
 Nicotiana setchellii,MA,Mesoandina
 Nicotiana setchellii,BMHM,Bosques Muy Húmedos Montanos
 Nicotiana thyrsiflora,PSH,Puna Húmeda y Seca
-Nicotiana thyrsiflora,PAR,PAR
+Nicotiana thyrsiflora,PAR,Páramo
 Nolana arenicola,DST,Desierto Semicálido Tropical
 Nolana aticoana,DST,Desierto Semicálido Tropical
 Nolana cerrateana,DST,Desierto Semicálido Tropical
@@ -6270,22 +6270,22 @@ Solanum chamaepolybotryon,BMHP,Bosques Muy Húmedos Premontanos
 Solanum chancayense,DST,Desierto Semicálido Tropical
 Solanum chillonanum,PSH,Puna Húmeda y Seca
 Solanum chiquidenum,MA,Mesoandina
-Solanum chiquidenum,PAR,PAR
+Solanum chiquidenum,PAR,Páramo
 Solanum clivorum,MA,Mesoandina
-Solanum clivorum,PAR,PAR
+Solanum clivorum,PAR,Páramo
 Solanum coelestispetalum,MA,Mesoandina
 Solanum coelestispetalum,BPM,Bosques Pluviales Montanos
 Solanum coelestispetalum,BMHM,Bosques Muy Húmedos Montanos
 Solanum contumazaense,MA,Mesoandina
 Solanum dolichocremastrum,PSH,Puna Húmeda y Seca
-Solanum dolichocremastrum,PAR,PAR
+Solanum dolichocremastrum,PAR,Páramo
 Solanum fulgens,BMHP,Bosques Muy Húmedos Premontanos
 Solanum gracilifrons,MA,Mesoandina
 Solanum gracilifrons,BS,Bosques Secos
 Solanum guzmanguense,MDE,Matorral Desértico
 Solanum habrocaulon,BMHM,Bosques Muy Húmedos Montanos
 Solanum hastiforme,MA,Mesoandina
-Solanum hastiforme,PAR,PAR
+Solanum hastiforme,PAR,Páramo
 Solanum hastiforme,BPM,Bosques Pluviales Montanos
 Solanum hispidum var. cerrateae,BMHM,Bosques Muy Húmedos Montanos
 Solanum hispidum var. ferreyrae,BMHP,Bosques Muy Húmedos Premontanos
@@ -6305,11 +6305,11 @@ Solanum incahuasinum,MA,Mesoandina
 Solanum incasicum,PSH,Puna Húmeda y Seca
 Solanum incasicum,BPM,Bosques Pluviales Montanos
 Solanum ingaefolium,MA,Mesoandina
-Solanum irosinum,PAR,PAR
+Solanum irosinum,PAR,Páramo
 Solanum irosinum,BMHM,Bosques Muy Húmedos Montanos
-Solanum jaenense,PAR,PAR
+Solanum jaenense,PAR,Páramo
 Solanum jaenense,BMHM,Bosques Muy Húmedos Montanos
-Solanum jalcae,PAR,PAR
+Solanum jalcae,PAR,Páramo
 Solanum laxissimum,BMHM,Bosques Muy Húmedos Montanos
 Solanum lignicaule,MA,Mesoandina
 Solanum limbaniense,PSH,Puna Húmeda y Seca
@@ -6331,14 +6331,14 @@ Solanum naucinum,BMHM,Bosques Muy Húmedos Montanos
 Solanum nemorosum,BMHM,Bosques Muy Húmedos Montanos
 Solanum neovargasii,BMHM,Bosques Muy Húmedos Montanos
 Solanum nubicola,PSH,Puna Húmeda y Seca
-Solanum nubicola,PAR,PAR
+Solanum nubicola,PAR,Páramo
 Solanum oblongum,BMHM,Bosques Muy Húmedos Montanos
 Solanum orophilum,MA,Mesoandina
 Solanum orophilum,PSH,Puna Húmeda y Seca
 Solanum ortegae,MA,Mesoandina
 Solanum pampasense,MA,Mesoandina
 Solanum paucissectum,MA,Mesoandina
-Solanum paucissectum,PAR,PAR
+Solanum paucissectum,PAR,Páramo
 Solanum peloquinianum,MDE,Matorral Desértico
 Solanum peloquinianum,MA,Mesoandina
 Solanum perlongistylum,MA,Mesoandina
@@ -6364,13 +6364,13 @@ Solanum scabrifolium,MA,Mesoandina
 Solanum simplicissimum,MDE,Matorral Desértico
 Solanum simplicissimum,MA,Mesoandina
 Solanum sogarandinum,PSH,Puna Húmeda y Seca
-Solanum sogarandinum,PAR,PAR
+Solanum sogarandinum,PAR,Páramo
 Solanum solum,BMHP,Bosques Muy Húmedos Premontanos
 Solanum sumacaspi,MA,Mesoandina
 Solanum sumacaspi,BMHM,Bosques Muy Húmedos Montanos
 Solanum tapojense,PSH,Puna Húmeda y Seca
 Solanum tarapatanum,MA,Mesoandina
-Solanum taulisense,PAR,PAR
+Solanum taulisense,PAR,Páramo
 Solanum tovarii,MA,Mesoandina
 Solanum tovarii,BMHM,Bosques Muy Húmedos Montanos
 Solanum trinitense,MA,Mesoandina
@@ -6380,7 +6380,7 @@ Solanum wittmackii,DST,Desierto Semicálido Tropical
 Solanum wittmackii,MA,Mesoandina
 Solanum arahuayum,MA,Mesoandina
 Solanum x blanco-galdosii,MA,Mesoandina
-Solanum x blanco-galdosii,PAR,PAR
+Solanum x blanco-galdosii,PAR,Páramo
 Solanum neoweberbaueri,DST,Desierto Semicálido Tropical
 Solanum xanthophaeum,BMHM,Bosques Muy Húmedos Montanos
 Solanum xanthophaeum,BMHP,Bosques Muy Húmedos Premontanos
@@ -6395,7 +6395,7 @@ Symplocos baehnii,BMHM,Bosques Muy Húmedos Montanos
 Symplocos cernua,BMHP,Bosques Muy Húmedos Premontanos
 Symplocos cernua,BMHM,Bosques Muy Húmedos Montanos
 Symplocos globulifera,BMHM,Bosques Muy Húmedos Montanos
-Symplocos incahuasensis,PAR,PAR
+Symplocos incahuasensis,PAR,Páramo
 Symplocos melanochroa,BMHM,Bosques Muy Húmedos Montanos
 Symplocos mezii,Sin datos,Sin datos
 Symplocos patazensis,BMHM,Bosques Muy Húmedos Montanos
@@ -6496,22 +6496,22 @@ Urtica peruviana,MA,Mesoandina
 Urtica urentivelutina,MA,Mesoandina
 Aretiastrum maximum,Sin datos,Sin datos
 Belonanthus longitubulosus,PSH,Puna Húmeda y Seca
-Belonanthus longitubulosus,PAR,PAR
+Belonanthus longitubulosus,PAR,Páramo
 Belonanthus longitubulosus,AA,Altoandina
-Belonanthus theodorici,PAR,PAR
+Belonanthus theodorici,PAR,Páramo
 Phyllactis dorotheae,Sin datos,Sin datos
 Stangea erikae,AA,Altoandina
 Stangea paulae,AA,Altoandina
 Stangea rhizantha,PSH,Puna Húmeda y Seca
 Valeriana bambusicaulis,PSH,Puna Húmeda y Seca
 Valeriana cephalantha,PSH,Puna Húmeda y Seca
-Valeriana comosa,PAR,PAR
+Valeriana comosa,PAR,Páramo
 Valeriana connata,MA,Mesoandina
 Valeriana connata,PSH,Puna Húmeda y Seca
 Valeriana connata,AA,Altoandina
 Valeriana costata,Sin datos,Sin datos
 Valeriana cumbemayensis,MA,Mesoandina
-Valeriana cumbemayensis,PAR,PAR
+Valeriana cumbemayensis,PAR,Páramo
 Valeriana dipsacoides,BMHP,Bosques Muy Húmedos Premontanos
 Valeriana globiflora,MA,Mesoandina
 Valeriana globiflora,PSH,Puna Húmeda y Seca
@@ -6519,12 +6519,12 @@ Valeriana globiflora,AA,Altoandina
 Valeriana globularioides,AA,Altoandina
 Valeriana globularis,AA,Altoandina
 Valeriana grisiana,PSH,Puna Húmeda y Seca
-Valeriana hadros,PAR,PAR
+Valeriana hadros,PAR,Páramo
 Valeriana herrerae,PSH,Puna Húmeda y Seca
 Valeriana isoetifolia,MA,Mesoandina
 Valeriana isoetifolia,PSH,Puna Húmeda y Seca
 Valeriana johannae,AA,Altoandina
-Valeriana ledoides,PAR,PAR
+Valeriana ledoides,PAR,Páramo
 Valeriana lyrata,PSH,Puna Húmeda y Seca
 Valeriana malvacea,MA,Mesoandina
 Valeriana merxmuelleri,PSH,Puna Húmeda y Seca
@@ -6605,7 +6605,7 @@ Stachytarpheta weberbaueri,MDE,Matorral Desértico
 Stachytarpheta weberbaueri,MA,Mesoandina
 Junellia clavata,Sin datos,Sin datos
 Junellia fasciculata,MA,Mesoandina
-Junellia fasciculata,PAR,PAR
+Junellia fasciculata,PAR,Páramo
 Junellia fasciculata,MA,Mesoandina
 Glandularia gynobasis,PSH,Puna Húmeda y Seca
 Verbena montevidensis,MA,Mesoandina
@@ -6619,10 +6619,10 @@ Viola hillii,Sin datos,Sin datos
 Viola boliviana,BMHM,Bosques Muy Húmedos Montanos
 Viola kermesina,AA,Altoandina
 Viola membranacea,PSH,Puna Húmeda y Seca
-Viola membranacea,PAR,PAR
+Viola membranacea,PAR,Páramo
 Viola membranacea,AA,Altoandina
 Viola nobilis,MA,Mesoandina
-Viola pallascaensis,PAR,PAR
+Viola pallascaensis,PAR,Páramo
 Viola replicata,AA,Altoandina
 Viola saccata,MA,Mesoandina
 Dendrophthora diffusa,MA,Mesoandina
@@ -6655,7 +6655,7 @@ Vochysia kosnipatae,BMHP,Bosques Muy Húmedos Premontanos
 Diplazium flexuosum,BMHP,Bosques Muy Húmedos Premontanos
 Diplazium paucijugum,BMHP,Bosques Muy Húmedos Premontanos
 Diplazium paucijugum,BHA,Bosques Húmedos Amazónicos
-Xyris tristis,PAR,PAR
+Xyris tristis,PAR,Páramo
 Zamia macrochiera,BHA,Bosques Húmedos Amazónicos
 Zamia urep,BMHP,Bosques Muy Húmedos Premontanos
 Zamia urep,BHA,Bosques Húmedos Amazónicos
@@ -6731,9 +6731,9 @@ Monnina callimorpha,BPM,Bosques Pluviales Montanos
 Monnina canescens,Sin datos,Sin datos
 Monnina clarkeana,Sin datos,Sin datos
 Monnina conferta,MA,Mesoandina
-Monnina conferta,PAR,PAR
+Monnina conferta,PAR,Páramo
 Monnina confusa,MA,Mesoandina
-Monnina confusa,PAR,PAR
+Monnina confusa,PAR,Páramo
 Monnina densecomata,PSH,Puna Húmeda y Seca
 Monnina densecomata,BPM,Bosques Pluviales Montanos
 Monnina divaristachya,BPM,Bosques Pluviales Montanos
